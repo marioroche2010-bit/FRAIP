@@ -1,7 +1,7 @@
 # Data Sources
 
 | Dataset Content | File | Source | License | Access Date |
-|---------|--------|-------------|---------|-------------|
+|-|-|-|-|-|
 | FIFA World Rankings | fifa_ranking.csv | [Kaggle (Alex)](https://www.kaggle.com/datasets/cashncarry/fifaworldranking/data) | CC0 | 2026-06-27 |
 
 <br>
