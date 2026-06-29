@@ -24,21 +24,41 @@ FRAIP uses a hybrid approach:
 
 ## Project Structure
 
-data/ # Raw and processed datasets
-notebooks/ # Exploratory analysis and experiments
-src/ # Core source code
-models/ # Trained models (not tracked in GitHub)
-configs/ # Configuration files
-scripts/ # Training and execution scripts
-docs/ # Documentation
-tests/ # Unit tests
+data/ **Raw and processed datasets**
+
+notebooks/ **Exploratory analysis and experiments**
+
+src/ **Core source code**
+
+models/ **Trained models (not tracked in GitHub)**
+
+configs/ **Configuration files**
+
+scripts/ **Training and execution scripts**
+
+docs/ **Documentation**
+
+tests/ **Unit tests**
+
 
 ## Data Sources
 
 The project uses historical football data such as:
+
 - FIFA rankings
 - Match results and stats from various competitions
-- Historic teams information data
+- Historic team stats
+
+The datasets used in this project were obtained from publicly available and licensed sources, including:
+
+- Kaggle
+- FIFA World Ranking
+- UEFA Club and Association Coefficients
+- FBref
+- Understat
+- Transfermarkt (where permitted)
+- WorldFootballR
+- FootyStats
 
 ## Technologies Used
 
