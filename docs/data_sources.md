@@ -1,8 +1,8 @@
 # Data Sources
 
-| Dataset Content | File | Source | License | Access Date |
-|-|-|-|-|-|
-| FIFA World Rankings | fifa_ranking.csv | [Kaggle (Alex)](https://www.kaggle.com/datasets/cashncarry/fifaworldranking/data) | CC0 | 2026-06-27 |
+| Dataset | Local File | Original Source | Additional Souces | License | Access Date | Modifications |
+|-|-|-|-|-|-|-|
+| FIFA World Rankings | fifa_ranking.csv | [Kaggle – FIFA World Ranking 1992–2024 (Alex)](https://www.kaggle.com/datasets/cashncarry/fifaworldranking/data) | Official FIFA World Ranking | CC0-1.0 | 2026-06-27 | Extended with official FIFA releases (2024–2026); standardized country names. |
 
 <br>
 
