@@ -1,0 +1,4862 @@
+rank;team_name;year;team_type
+1;Real Madrid;2017;club
+2;Bayern München;2017;club
+3;FC Barcelona;2017;club
+4;Atlético Madrid;2017;club
+5;Juventus;2017;club
+6;Paris Saint-Germain;2017;club
+7;Borussia Dortmund;2017;club
+8;Sevilla;2017;club
+9;Benfica;2017;club
+10;Chelsea;2017;club
+11;Arsenal;2017;club
+12;Manchester City;2017;club
+13;FC Porto;2017;club
+14;Schalke 04;2017;club
+15;Manchester United;2017;club
+16;Bayer Leverkusen;2017;club
+17;Napoli;2017;club
+18;Shakhtar Donetsk;2017;club
+19;Zenit St. Petersburg;2017;club
+20;Tottenham Hotspur;2017;club
+21;Valencia;2017;club
+22;FC Basel;2017;club
+23;Olympique Lyon;2017;club
+24;Fiorentina;2017;club
+25;Dinamo Kiev;2017;club
+26;Ajax;2017;club
+27;Villarreal;2017;club
+28;Olympiakos Piraeus;2017;club
+29;AS Monaco;2017;club
+30;Athletic Bilbao;2017;club
+31;Galatasaray;2017;club
+32;Anderlecht;2017;club
+33;Lazio;2017;club
+34;Liverpool;2017;club
+35;VfL Wolfsburg;2017;club
+36;Borussia Mönchengladbach;2017;club
+37;AS Roma;2017;club
+38;Dnipro Dnipropetrovsk;2017;club
+39;Fenerbahçe;2017;club
+40;Sparta Praha;2017;club
+41;AC Milan;2017;club
+42;PSV Eindhoven;2017;club
+43;Besiktas;2017;club
+44;Racing Genk;2017;club
+45;Internazionale;2017;club
+46;Rubin Kazan;2017;club
+47;Málaga CF;2017;club
+48;Celtic;2017;club
+49;Viktoria Plzen;2017;club
+50;FC Salzburg;2017;club
+51;Celta de Vigo;2017;club
+52;CSKA Moscow;2017;club
+53;Club Brugge;2017;club
+54;FC København;2017;club
+55; Sporting Braga;2017;club
+56;Leicester City;2017;club
+57;Sporting CP Lisbon;2017;club
+58;AS Saint-Étienne;2017;club
+59;AA Gent;2017;club
+60;Steaua Bucuresti;2017;club
+61;PAOK Thessaloniki;2017;club
+62;Ludogorets Razgrad;2017;club
+63;Levante UD;2017;club
+64;Real Betis;2017;club
+65;AZ Alkmaar;2017;club
+66;FK Krasnodar;2017;club
+67;Anzhi Makhachkala;2017;club
+68;Newcastle United;2017;club
+69;BATE Borisov;2017;club
+70;Girondins Bordeaux;2017;club
+71;Everton;2017;club
+72;Young Boys;2017;club
+73;Rapid Wien;2017;club
+74;Legia Warsaw;2017;club
+75;Olympique Marseille;2017;club
+76;Eintracht Frankfurt;2017;club
+77;Torino;2017;club
+78;Dinamo Moscow;2017;club
+79;Real Sociedad;2017;club
+80;Trabzonspor;2017;club
+81;VfB Stuttgart;2017;club
+82;APOEL Nicosia;2017;club
+83;Dinamo Zagreb;2017;club
+84;Hannover 96;2017;club
+85;Slovan Liberec;2017;club
+86;FSV Mainz 05;2017;club
+87;FK Rostov;2017;club
+88;Maccabi Tel-Aviv;2017;club
+89;Feyenoord;2017;club
+90;FC Augsburg;2017;club
+91;Southampton FC;2017;club
+92;Lille OSC;2017;club
+93;Swansea City;2017;club
+94;NK Maribor;2017;club
+95;Standard Liège;2017;club
+96;SC Freiburg;2017;club
+97;Lokomotiv Moscow;2017;club
+98;Metalist Kharkiv;2017;club
+99;En Avant Guingamp;2017;club
+100;Molde FK;2017;club
+101;Wigan Athletic;2017;club
+102;Udinese;2017;club
+103;Sassuolo;2017;club
+104;Spartak Moscow;2017;club
+105;FC Zürich;2017;club
+106;Qarabag FK;2017;club
+107;Astra Giurgiu;2017;club
+108;West Ham United;2017;club
+109;Chernomorets Odesa;2017;club
+110;Montpellier;2017;club
+111;Austria Wien;2017;club
+112;KSC Lokeren;2017;club
+113;Malmö FF;2017;club
+114;Hertha BSC;2017;club
+115;CFR Cluj;2017;club
+116;Estoril Praia;2017;club
+117;OGC Nice;2017;club
+118;FK Astana;2017;club
+119;Hull City;2017;club
+120;FC Midtjylland;2017;club
+121;Partizan Belgrade;2017;club
+122;Osmanlispor;2017;club
+123;Sampdoria;2017;club
+124;Asteras Tripolis;2017;club
+125;NK Rijeka;2017;club
+126;Kuban Krasnodar;2017;club
+127;Panathinaikos;2017;club
+128;Vitória Guimarães;2017;club
+129;Maritimo Funchal;2017;club
+130;Esbjerg fB;2017;club
+131;Zulte Waregem;2017;club
+132;FC Sion;2017;club
+133;Rio Ave;2017;club
+134;CF Os Belenenses;2017;club
+135;Académica Coimbra;2017;club
+136;Zorya Luhansk;2017;club
+137;Paços de Ferreira;2017;club
+138;Rosenborg BK;2017;club
+139;FC Twente Enschede;2017;club
+140;Hajduk Split;2017;club
+141;FC Arouca;2017;club
+142;Nacional Funchal;2017;club
+143;AaB Aalborg;2017;club
+144;FC Nordsjælland;2017;club
+145;Sheriff Tiraspol;2017;club
+146;Atromitos FC;2017;club
+147;Dinamo Minsk;2017;club
+148;Lech Poznan;2017;club
+149;Grasshoppers Zürich;2017;club
+150;Hapoel Beer-Sheva;2017;club
+151;Bursaspor;2017;club
+152;Apollon Limassol;2017;club
+153;HJK Helsinki;2017;club
+154;Vorskla Poltava;2017;club
+155;Metalurg Donetsk;2017;club
+156;IF Elfsborg;2017;club
+157;FC Sankt Gallen;2017;club
+158;Istanbul Basaksehir;2017;club
+159;Mladá Boleslav;2017;club
+160;AIK Stockholm;2017;club
+161;FC Thun;2017;club
+162;Konyaspor;2017;club
+163;Neftchi Baku;2017;club
+164;FK Jablonec;2017;club
+165;FC Oleksandriya;2017;club
+166;Arsenal Kiev;2017;club
+167;Charleroi;2017;club
+168;FC Luzern;2017;club
+169;Karabükspor;2017;club
+170;Vitesse Arnhem;2017;club
+171;Vojvodina Novi Sad;2017;club
+172;Eskisehirspor;2017;club
+173;Brøndby IF;2017;club
+174;FC Groningen;2017;club
+175;Videoton Fehérvár;2017;club
+176;Maccabi Haifa;2017;club
+177;Hapoel Tel-Aviv;2017;club
+178;Omonia Nicosia;2017;club
+179;AEL Limassol;2017;club
+180;Slavia Praha;2017;club
+181;IFK Göteborg;2017;club
+182;Hapoel Kiryat Shmona;2017;club
+183;Pandurii Târgu Jiu;2017;club
+184;Petrolul Ploiesti;2017;club
+185;Gabala FK;2017;club
+186;PEC Zwolle;2017;club
+187;Heerenveen;2017;club
+188;Tromsø IL;2017;club
+189;Lokomotiva Zagreb;2017;club
+190;FK Aktobe;2017;club
+191;Shakhtior Saligorsk;2017;club
+192;Slask Wroclaw;2017;club
+193;Servette FC Genève;2017;club
+194;Slovan Bratislava;2017;club
+195;Red Star Belgrade;2017;club
+196;Heracles Almelo;2017;club
+197;Strømsgodset IF;2017;club
+198;Admira Wacker;2017;club
+199;Shakhtyor Karaganda;2017;club
+200;Helsingborg IF;2017;club
+201;DVSC Debrecen;2017;club
+202;AS Trencín;2017;club
+203;Spartak Trnava;2017;club
+204;Skënderbeu Korçë;2017;club
+205;Aberdeen;2017;club
+206;Motherwell;2017;club
+207;FC Utrecht;2017;club
+208;AEK Athens;2017;club
+209;PAS Giannina;2017;club
+210;Xanthi FC;2017;club
+211;SCR Altach;2017;club
+212;Sturm Graz;2017;club
+213;FC Pasching;2017;club
+214;RNK Split;2017;club
+215;St. Johnstone;2017;club
+216;Go Ahead Eagles;2017;club
+217;Ruch Chorzow;2017;club
+218;Dinamo Bucuresti;2017;club
+219;FC Vaslui;2017;club
+220;SønderjyskE;2017;club
+221;Randers FC;2017;club
+222;AC Horsens;2017;club
+223;AEK Larnaca;2017;club
+224;FH Hafnarfjardar;2017;club
+225;Wolfsberger AC;2017;club
+226;St. Pölten;2017;club
+227;SV Grödig;2017;club
+228;SV Ried;2017;club
+229;Slaven Koprivnica;2017;club
+230;Inter Baku;2017;club
+231;Beitar Jerusalem;2017;club
+232;Viitorul Constanta;2017;club
+233;ASA Tirgu Mures;2017;club
+234;Rapid Bucuresti;2017;club
+235;MSK Zilina;2017;club
+236;Zalgiris Vilnius;2017;club
+237;Dundalk;2017;club
+238;Hearts FC;2017;club
+239;The New Saints;2017;club
+240;FK Ventspils;2017;club
+241;Odd Grenland;2017;club
+242;Kairat Almaty;2017;club
+243;NK Osijek;2017;club
+244;Dinamo Tbilisi;2017;club
+245;Dila Gori;2017;club
+246;FK Minsk;2017;club
+247;BK Häcken;2017;club
+248;CSMS Iasi;2017;club
+249;FC Botosani;2017;club
+250;AGF Aarhus;2017;club
+251;FK Sarajevo;2017;club
+252;Torpedo Zhodino;2017;club
+253;Anorthosis Famagusta;2017;club
+254;KR Reykjavik;2017;club
+255;Vardar Skopje;2017;club
+256;F91 Dudelange;2017;club
+257;FC Gomel;2017;club
+258;Zaglebie Lubin;2017;club
+259;Piast Gliwice;2017;club
+260;IFK Norrköping;2017;club
+261;IF Brommapojkarna;2017;club
+262;Gefle IF;2017;club
+263;Kalmar FF;2017;club
+264;Milsami Orhei;2017;club
+265;Hapoel Ramat-Gan;2017;club
+266;Bnei Yehuda;2017;club
+267;Kalju Nomme;2017;club
+268;Zeljeznicar Sarajevo;2017;club
+269;Hibernian;2017;club
+270;Dundee United;2017;club
+271;Ermis Aradippou;2017;club
+272;FC Beroe Stara Zagora;2017;club
+273;Botev Plovdiv;2017;club
+274;Aalesunds FK;2017;club
+275;Olimpija Ljubljana;2017;club
+276;Cukaricki Belgrade;2017;club
+277;FK Kukësi;2017;club
+278;Valletta FC;2017;club
+279;Khazar Lenkoran;2017;club
+280;Neman Grodno;2017;club
+281;Naftan Novopolotsk;2017;club
+282;FC Vaduz;2017;club
+283;Jagiellonia Bialystok;2017;club
+284;Zawisza Bydgoszcz;2017;club
+285;Levski Sofia;2017;club
+286;Zimbru Chisinau;2017;club
+287;Maccabi Netanya;2017;club
+288;FK Jagodina;2017;club
+289;St. Patrick's Athletic;2017;club
+290;Inverness CT;2017;club
+291;Cracovia Kraków;2017;club
+292;CSKA Sofia;2017;club
+293;Stjarnan FC;2017;club
+294;Stabæk IF;2017;club
+295;FK Haugesund;2017;club
+296;IL Hødd;2017;club
+297;NK Domzale;2017;club
+298;Mura Murska Sobota;2017;club
+299;Kapaz Ganja;2017;club
+300;Zrinjski Mostar;2017;club
+301;Ordabasy Shymkent;2017;club
+302;Levadia Tallinn;2017;club
+303;Litex Lovech;2017;club
+304;Ferencváros;2017;club
+305;Crusaders Belfast;2017;club
+306;Rabotnicki Skopje;2017;club
+307;Birkirkara;2017;club
+308;FK Baku;2017;club
+309;Shirak Gyumri;2017;club
+310;Cherno More Varna;2017;club
+311;Lokomotiv Plovdiv;2017;club
+312;Cliftonville;2017;club
+313;Dacia Chisinau;2017;club
+314;Linfield Belfast;2017;club
+315;NK Koper;2017;club
+316;Ekranas Panevezys;2017;club
+317;Mladost Podgorica;2017;club
+318;Irtysh Pavlodar;2017;club
+319;Siroki Brijeg;2017;club
+320;CS Fola Esch;2017;club
+321;Differdange 03;2017;club
+322;Slavia Sofia;2017;club
+323;ETO Györ;2017;club
+324;Shkendija Tetovo;2017;club
+325;Nova Gorica;2017;club
+326;NK Celje;2017;club
+327;FK Senica;2017;club
+328;Sligo Rovers;2017;club
+329;Buducnost Podgorica;2017;club
+330;Zhetysu Taldykorgan;2017;club
+331;Sutjeska Niksic;2017;club
+332;Pyunik Yerevan;2017;club
+333;Partizani Tirana;2017;club
+334;Shamrock Rovers;2017;club
+335;Flora Tallinn;2017;club
+336;Rudar Pljevlja;2017;club
+337;Chikhura Sachkhere;2017;club
+338;Lincoln Red Imps;2017;club
+339;FK Jelgava;2017;club
+340;Víkingur;2017;club
+341;Breidablik;2017;club
+342;MTK Budapest;2017;club
+343;Diósgyöri Miskolc;2017;club
+344;Honvéd Budapest;2017;club
+345;Rudar Velenje;2017;club
+346;Metalurg Skopje;2017;club
+347;MFK Kosice;2017;club
+348;Hibernians FC;2017;club
+349;SJK Seinäjoki;2017;club
+350;FC Zestafoni;2017;club
+351;FC Santa Coloma;2017;club
+352;Skonto Riga;2017;club
+353;Daugava Daugavpils;2017;club
+354;Spartak Myjava;2017;club
+355;Cork City;2017;club
+356;Zeta Golubovci;2017;club
+357;RoPS Rovaniemi;2017;club
+358;MyPa-47;2017;club
+359;KuPS Kuopio;2017;club
+360;Alashkert FC;2017;club
+361;B36 Torshavn;2017;club
+362;USV Eschen-Mauren;2017;club
+363;HB Torshavn;2017;club
+364;IBV Vestmannaeyjar;2017;club
+365;FC Tiraspol;2017;club
+366;KF Laçi;2017;club
+367;Derry City;2017;club
+368;Honka Espoo;2017;club
+369;Inter Turku;2017;club
+370;Ulisses Yerevan;2017;club
+371;FK Liepaja;2017;club
+372;Jeunesse d'Esch;2017;club
+373;Thór Akureyri;2017;club
+374;Zaria Balti;2017;club
+375;Saxan Gagauz Yeri;2017;club
+376;Veris Chisinau;2017;club
+377;Teuta Durrës;2017;club
+378;KS Flamurtari Vlorë;2017;club
+379;Celik Niksic;2017;club
+380;IFK Mariehamn;2017;club
+381;VPS Vaasa;2017;club
+382;JJK Jyväskylä;2017;club
+383;Spartaks Jurmala;2017;club
+384;Metalurgs Liepaja;2017;club
+385;EB Streymur;2017;club
+386;Valur Reykjavik;2017;club
+387;Vikingur Reykjavik;2017;club
+388;Fram Reykjavik;2017;club
+389;Renova Dzepciste;2017;club
+390;FK Turnovo;2017;club
+391;Atlantas Klaipeda;2017;club
+392;Suduva Marijampole;2017;club
+393;KF Tirana;2017;club
+394;Uni College Dublin;2017;club
+395;Kalev Sillamäe;2017;club
+396;FC Lahti;2017;club
+397;TPS Turku;2017;club
+398;Banants Yerevan;2017;club
+399;Gandzasar Kapan;2017;club
+400;Torpedo Kutaisi;2017;club
+401;Olimpi Rustavi;2017;club
+402;FC Lusitanos;2017;club
+403;Glenavon;2017;club
+404;FK Trakai;2017;club
+405;Tre Penne;2017;club
+406;La Fiorita;2017;club
+407;Drogheda United;2017;club
+408;Bohemians Dublin;2017;club
+409;Radnik Bijeljina;2017;club
+410;Sloboda Tuzla;2017;club
+411;Trans Narva;2017;club
+412;Olimpic Sarajevo;2017;club
+413;FK Borac Banja Luka;2017;club
+414;Samtredia;2017;club
+415;Bala Town;2017;club
+416;Dinamo Batumi;2017;club
+417;Spartak Tskhinvali;2017;club
+418;Mika Ashtarak;2017;club
+419;Sioni Bolnisi;2017;club
+420;Airbus UK Broughton;2017;club
+421;Europa FC;2017;club
+422;Daugava Riga;2017;club
+423;NSI Runavik;2017;club
+424;Glentoran;2017;club
+425;Portadown;2017;club
+426;Sileks Kratovo;2017;club
+427;Teteks Tetovo;2017;club
+428;Kruoja Pakruojis;2017;club
+429;FCI Tallinn;2017;club
+430;Balzan FC;2017;club
+431;Bokelj Kotor;2017;club
+432;Santos Tartu;2017;club
+433;Sliema Wanderers;2017;club
+434;Lovcen Cetinje;2017;club
+435;Connah's Quay;2017;club
+436;Newtown;2017;club
+437;Bangor City;2017;club
+438;Prestatyn Town;2017;club
+439;UE Santa Coloma;2017;club
+440;Progrès Niederkorn;2017;club
+441;CS Grevenmacher;2017;club
+442;IF Fuglafjørdur;2017;club
+443;Banga Gargzdai;2017;club
+444;FK Siauliai;2017;club
+445;Folgore;2017;club
+446;Floriana;2017;club
+447;Llandudno FC;2017;club
+448;Aberystwyth Town;2017;club
+449;Cefn Druids;2017;club
+450;Llanelli FC;2017;club
+451;Libertas;2017;club
+452;Sant Julià;2017;club
+453;Juvenes Dogana;2017;club
+1;Real Madrid;2018;club
+2;Atlético Madrid;2018;club
+3;Bayern München;2018;club
+4;FC Barcelona;2018;club
+5;Juventus;2018;club
+6;Sevilla;2018;club
+7;Paris Saint-Germain;2018;club
+8;Manchester City;2018;club
+9;Arsenal;2018;club
+10;Borussia Dortmund;2018;club
+11;FC Porto;2018;club
+12;Manchester United;2018;club
+13;Chelsea;2018;club
+14;Shakhtar Donetsk;2018;club
+15;Benfica;2018;club
+16;Zenit St. Petersburg;2018;club
+17;Napoli;2018;club
+18;FC Basel;2018;club
+19;Tottenham Hotspur;2018;club
+20;Bayer Leverkusen;2018;club
+21;AS Roma;2018;club
+22;Liverpool;2018;club
+23;Dinamo Kiev;2018;club
+24;Schalke 04;2018;club
+25;Olympique Lyon;2018;club
+26;Besiktas;2018;club
+27;AS Monaco;2018;club
+28;FC Salzburg;2018;club
+29;Olympiakos Piraeus;2018;club
+30;Fiorentina;2018;club
+31;Ajax;2018;club
+32;Villarreal;2018;club
+33;Anderlecht;2018;club
+34;Athletic Bilbao;2018;club
+35;CSKA Moscow;2018;club
+36;Lazio;2018;club
+37;Sporting CP Lisbon;2018;club
+38;VfL Wolfsburg;2018;club
+39;Ludogorets Razgrad;2018;club
+40;PSV Eindhoven;2018;club
+41;Valencia;2018;club
+42;Sparta Praha;2018;club
+43;FC København;2018;club
+44;Dnipro Dnipropetrovsk;2018;club
+45;Viktoria Plzen;2018;club
+46;Olympique Marseille;2018;club
+47;Celtic;2018;club
+48;Sporting Braga;2018;club
+49;PAOK Thessaloniki;2018;club
+50;Club Brugge;2018;club
+51;Galatasaray;2018;club
+52;Borussia Mönchengladbach;2018;club
+53;AC Milan;2018;club
+54;FCSB;2018;club
+55;APOEL Nicosia;2018;club
+56;AA Gent;2018;club
+57;Racing Genk;2018;club
+58;AZ Alkmaar;2018;club
+59;Legia Warsaw;2018;club
+60;AS Saint-Étienne;2018;club
+61;Fenerbahçe;2018;club
+62;FK Krasnodar;2018;club
+63;Lokomotiv Moscow;2018;club
+64;NK Maribor;2018;club
+65;Maccabi Tel-Aviv;2018;club
+66;Leicester City;2018;club
+67;FK Astana;2018;club
+68;Feyenoord;2018;club
+69;Rapid Wien;2018;club
+70;Real Sociedad;2018;club
+71;Celta de Vigo;2018;club
+72;Real Betis;2018;club
+73;Qarabag FK;2018;club
+74;Young Boys;2018;club
+75;BATE Borisov;2018;club
+76;Trabzonspor;2018;club
+77;Dinamo Zagreb;2018;club
+78;RB Leipzig;2018;club
+79;Partizan Belgrade;2018;club
+80;Everton;2018;club
+81;Slovan Liberec;2018;club
+82;Austria Wien;2018;club
+83;Internazionale;2018;club
+84;Rubin Kazan;2018;club
+85;Dinamo Moscow;2018;club
+86;Southampton FC;2018;club
+87;West Ham United;2018;club
+88;Hull City;2018;club
+89;Swansea City;2018;club
+90;Wigan Athletic;2018;club
+91;NK Rijeka;2018;club
+92;Atalanta;2018;club
+93;Sassuolo;2018;club
+94;Sampdoria;2018;club
+95;Torino;2018;club
+96;Udinese;2018;club
+97;Sheriff Tiraspol;2018;club
+98;Hertha BSC;2018;club
+99;1.FC Köln;2018;club
+100;1899 Hoffenheim;2018;club
+101;SC Freiburg;2018;club
+102;FSV Mainz 05;2018;club
+103;FC Augsburg;2018;club
+104;Eintracht Frankfurt;2018;club
+105;VfB Stuttgart;2018;club
+106;Astra Giurgiu;2018;club
+107;Malmö FF;2018;club
+108;Spartak Moscow;2018;club
+109;FK Rostov;2018;club
+110;Standard Liège;2018;club
+111;Molde FK;2018;club
+112;FC Zürich;2018;club
+113;OGC Nice;2018;club
+114;FC Midtjylland;2018;club
+115;Girondins Bordeaux;2018;club
+116;Lille OSC;2018;club
+117;En Avant Guingamp;2018;club
+118;Zulte Waregem;2018;club
+119;Red Star Belgrade;2018;club
+120;Anzhi Makhachkala;2018;club
+121;Kuban Krasnodar;2018;club
+122;Östersunds FK;2018;club
+123;AEK Athens;2018;club
+124;Hapoel Beer-Sheva;2018;club
+125;Apollon Limassol;2018;club
+126;Esbjerg fB;2018;club
+127;Vitória Guimarães;2018;club
+128;Maritimo Funchal;2018;club
+129;FC Arouca;2018;club
+130;Rio Ave;2018;club
+131;CF Os Belenenses;2018;club
+132;Estoril Praia;2018;club
+133;Nacional Funchal;2018;club
+134;Paços de Ferreira;2018;club
+135;Zorya Luhansk;2018;club
+136;Rosenborg BK;2018;club
+137;FC Sion;2018;club
+138;Asteras Tripolis;2018;club
+139;Chernomorets Odesa;2018;club
+140;Istanbul Basaksehir;2018;club
+141;Skënderbeu Korçë;2018;club
+142;FC Oleksandriya;2018;club
+143;Olimpik Donetsk;2018;club
+144;Vorskla Poltava;2018;club
+145;Metalist Kharkiv;2018;club
+146;Metalurg Donetsk;2018;club
+147;Dinamo Minsk;2018;club
+148;HJK Helsinki;2018;club
+149;Osmanlispor;2018;club
+150;KV Oostende;2018;club
+151;Charleroi;2018;club
+152;KSC Lokeren;2018;club
+153;Slavia Praha;2018;club
+154;Konyaspor;2018;club
+155;Karabükspor;2018;club
+156;Bursaspor;2018;club
+157;Panathinaikos;2018;club
+158;Hajduk Split;2018;club
+159;Lech Poznan;2018;club
+160;SCR Altach;2018;club
+161;Sturm Graz;2018;club
+162;Admira Wacker;2018;club
+163;Wolfsberger AC;2018;club
+164;St. Pölten;2018;club
+165;SV Grödig;2018;club
+166;FC Pasching;2018;club
+167;AaB Aalborg;2018;club
+168;FC Lugano;2018;club
+169;FC Luzern;2018;club
+170;Grasshoppers Zürich;2018;club
+171;FC Thun;2018;club
+172;FC Sankt Gallen;2018;club
+173;FC Zlin;2018;club
+174;Mladá Boleslav;2018;club
+175;FK Jablonec;2018;club
+176;Vitesse Arnhem;2018;club
+177;FC Utrecht;2018;club
+178;Heracles Almelo;2018;club
+179;FC Groningen;2018;club
+180;Go Ahead Eagles;2018;club
+181;FC Twente Enschede;2018;club
+182;PEC Zwolle;2018;club
+183;Panionios;2018;club
+184;PAS Giannina;2018;club
+185;Atromitos FC;2018;club
+186;Xanthi FC;2018;club
+187;FH Hafnarfjardar;2018;club
+188;Dundalk;2018;club
+189;Zalgiris Vilnius;2018;club
+190;IF Elfsborg;2018;club
+191;Gabala FK;2018;club
+192;Vojvodina Novi Sad;2018;club
+193;NK Osijek;2018;club
+194;Lokomotiva Zagreb;2018;club
+195;RNK Split;2018;club
+196;Brøndby IF;2018;club
+197;Lyngby BK;2018;club
+198;SønderjyskE;2018;club
+199;Randers FC;2018;club
+200;FC Nordsjælland;2018;club
+201;Vardar Skopje;2018;club
+202;The New Saints;2018;club
+203;AS Trencín;2018;club
+204;Slovan Bratislava;2018;club
+205;Maccabi Haifa;2018;club
+206;Bnei Yehuda;2018;club
+207;Beitar Jerusalem;2018;club
+208;Hapoel Kiryat Shmona;2018;club
+209;Hapoel Tel-Aviv;2018;club
+210;Hapoel Ramat-Gan;2018;club
+211;AEK Larnaca;2018;club
+212;AEL Limassol;2018;club
+213;Omonia Nicosia;2018;club
+214;Ermis Aradippou;2018;club
+215;Anorthosis Famagusta;2018;club
+216;Videoton Fehérvár;2018;club
+217;FK Kukësi;2018;club
+218;Dinamo Tbilisi;2018;club
+219;Viitorul Constanta;2018;club
+220;Dinamo Bucuresti;2018;club
+221;Universitatea Craiova;2018;club
+222;Pandurii Târgu Jiu;2018;club
+223;CSMS Iasi;2018;club
+224;ASA Tirgu Mures;2018;club
+225;FC Botosani;2018;club
+226;Petrolul Ploiesti;2018;club
+227;CFR Cluj;2018;club
+228;Arka Gdynia;2018;club
+229;Jagiellonia Bialystok;2018;club
+230;Zaglebie Lubin;2018;club
+231;Piast Gliwice;2018;club
+232;Cracovia Kraków;2018;club
+233;Slask Wroclaw;2018;club
+234;Ruch Chorzow;2018;club
+235;Zawisza Bydgoszcz;2018;club
+236;AIK Stockholm;2018;club
+237;Aberdeen;2018;club
+238;Kalju Nomme;2018;club
+239;IFK Göteborg;2018;club
+240;IFK Norrköping;2018;club
+241;BK Häcken;2018;club
+242;IF Brommapojkarna;2018;club
+243;Gefle IF;2018;club
+244;Botev Plovdiv;2018;club
+245;Levski Sofia;2018;club
+246;Inter Baku;2018;club
+247;Zira FK;2018;club
+248;Dunav Ruse;2018;club
+249;FC Beroe Stara Zagora;2018;club
+250;Neftchi Baku;2018;club
+251;Kapaz Ganja;2018;club
+252;Slavia Sofia;2018;club
+253;Cherno More Varna;2018;club
+254;Litex Lovech;2018;club
+255;CSKA Sofia;2018;club
+256;Khazar Lenkoran;2018;club
+257;Zrinjski Mostar;2018;club
+258;FK Ventspils;2018;club
+259;Mladost Lucani;2018;club
+260;Cukaricki Belgrade;2018;club
+261;FK Jagodina;2018;club
+262;Dynamo Brest;2018;club
+263;Shakhtior Saligorsk;2018;club
+264;St. Johnstone;2018;club
+265;Glasgow Rangers;2018;club
+266;Torpedo Zhodino;2018;club
+267;Hibernian;2018;club
+268;Hearts FC;2018;club
+269;Inverness CT;2018;club
+270;Motherwell;2018;club
+271;Neman Grodno;2018;club
+272;FK Minsk;2018;club
+273;Kairat Almaty;2018;club
+274;Irtysh Pavlodar;2018;club
+275;Ordabasy Shymkent;2018;club
+276;FK Aktobe;2018;club
+277;Shakhtyor Karaganda;2018;club
+278;Shkendija Tetovo;2018;club
+279;F91 Dudelange;2018;club
+280;CS Fola Esch;2018;club
+281;MSK Zilina;2018;club
+282;Spartak Trnava;2018;club
+283;DVSC Debrecen;2018;club
+284;Strømsgodset IF;2018;club
+285;Odd Grenland;2018;club
+286;FK Haugesund;2018;club
+287;SK Brann Bergen;2018;club
+288;Stabæk IF;2018;club
+289;Tromsø IL;2018;club
+290;IL Hødd;2018;club
+291;Valletta FC;2018;club
+292;Rabotnicki Skopje;2018;club
+293;FK Sarajevo;2018;club
+294;NK Domzale;2018;club
+295;Víkingur;2018;club
+296;Mladost Podgorica;2018;club
+297;KR Reykjavik;2018;club
+298;Zeljeznicar Sarajevo;2018;club
+299;Crusaders Belfast;2018;club
+300;Nova Gorica;2018;club
+301;Olimpija Ljubljana;2018;club
+302;NK Koper;2018;club
+303;NK Celje;2018;club
+304;Rudar Velenje;2018;club
+305;Hibernians FC;2018;club
+306;Linfield Belfast;2018;club
+307;FC Vaduz;2018;club
+308;FC Santa Coloma;2018;club
+309;Lincoln Red Imps;2018;club
+310;Levadia Tallinn;2018;club
+311;Milsami Orhei;2018;club
+312;Stjarnan FC;2018;club
+313;Birkirkara;2018;club
+314;Dila Gori;2018;club
+315;Alashkert FC;2018;club
+316;Ferencváros;2018;club
+317;Shirak Gyumri;2018;club
+318;Sutjeska Niksic;2018;club
+319;Cliftonville;2018;club
+320;MFK Ruzomberok;2018;club
+321;Spartak Myjava;2018;club
+322;MFK Kosice;2018;club
+323;FK Senica;2018;club
+324;Buducnost Podgorica;2018;club
+325;Siroki Brijeg;2018;club
+326;Pyunik Yerevan;2018;club
+327;Differdange 03;2018;club
+328;Suduva Marijampole;2018;club
+329;Zaria Balti;2018;club
+330;Partizani Tirana;2018;club
+331;FK Jelgava;2018;club
+332;Dacia Chisinau;2018;club
+333;Chikhura Sachkhere;2018;club
+334;St. Patrick's Athletic;2018;club
+335;Zimbru Chisinau;2018;club
+336;Saxan Gagauz Yeri;2018;club
+337;FC Tiraspol;2018;club
+338;Veris Chisinau;2018;club
+339;Spartaks Jurmala;2018;club
+340;FK Trakai;2018;club
+341;Cork City;2018;club
+342;La Fiorita;2018;club
+343;Rudar Pljevlja;2018;club
+344;HB Torshavn;2018;club
+345;KF Tirana;2018;club
+346;Teuta Durrës;2018;club
+347;KF Laçi;2018;club
+348;KS Flamurtari Vlorë;2018;club
+349;Valur Reykjavik;2018;club
+350;Breidablik;2018;club
+351;Vikingur Reykjavik;2018;club
+352;Fram Reykjavik;2018;club
+353;IBV Vestmannaeyjar;2018;club
+354;Honvéd Budapest;2018;club
+355;Vasas Budapest;2018;club
+356;MTK Budapest;2018;club
+357;Diósgyöri Miskolc;2018;club
+358;ETO Györ;2018;club
+359;IFK Mariehamn;2018;club
+360;FK Liepaja;2018;club
+361;Europa FC;2018;club
+362;SJK Seinäjoki;2018;club
+363;B36 Torshavn;2018;club
+364;Pelister Bitola;2018;club
+365;Sileks Kratovo;2018;club
+366;Renova Dzepciste;2018;club
+367;Metalurg Skopje;2018;club
+368;Sligo Rovers;2018;club
+369;FK Turnovo;2018;club
+370;Teteks Tetovo;2018;club
+371;VPS Vaasa;2018;club
+372;RoPS Rovaniemi;2018;club
+373;FC Lahti;2018;club
+374;MyPa-47;2018;club
+375;Honka Espoo;2018;club
+376;Inter Turku;2018;club
+377;TPS Turku;2018;club
+378;Shamrock Rovers;2018;club
+379;Derry City;2018;club
+380;Uni College Dublin;2018;club
+381;Drogheda United;2018;club
+382;Radnik Bijeljina;2018;club
+383;Sloboda Tuzla;2018;club
+384;Olimpic Sarajevo;2018;club
+385;Samtredia;2018;club
+386;Flora Tallinn;2018;club
+387;Tre Penne;2018;club
+388;Folgore;2018;club
+389;Atlantas Klaipeda;2018;club
+390;Daugava Daugavpils;2018;club
+391;Ekranas Panevezys;2018;club
+392;Skonto Riga;2018;club
+393;Daugava Riga;2018;club
+394;Metalurgs Liepaja;2018;club
+395;FCI Tallinn;2018;club
+396;Kalev Sillamäe;2018;club
+397;Santos Tartu;2018;club
+398;Trans Narva;2018;club
+399;Kruoja Pakruojis;2018;club
+400;Banga Gargzdai;2018;club
+401;Bala Town;2018;club
+402;UE Santa Coloma;2018;club
+403;Dinamo Batumi;2018;club
+404;Torpedo Kutaisi;2018;club
+405;Zeta Golubovci;2018;club
+406;FC Lusitanos;2018;club
+407;Jeunesse d'Esch;2018;club
+408;Bokelj Kotor;2018;club
+409;Spartak Tskhinvali;2018;club
+410;FC Zestafoni;2018;club
+411;Celik Niksic;2018;club
+412;Lovcen Cetinje;2018;club
+413;Sioni Bolnisi;2018;club
+414;EB Streymur;2018;club
+415;Gandzasar Kapan;2018;club
+416;Banants Yerevan;2018;club
+417;Ulisses Yerevan;2018;club
+418;Mika Ashtarak;2018;club
+419;Balzan FC;2018;club
+420;Floriana;2018;club
+421;Sliema Wanderers;2018;club
+422;Progrès Niederkorn;2018;club
+423;Ballymena United;2018;club
+424;Coleraine;2018;club
+425;Glenavon;2018;club
+426;Glentoran;2018;club
+427;Connah's Quay;2018;club
+428;Bangor City;2018;club
+429;Llandudno FC;2018;club
+430;Newtown;2018;club
+431;Airbus UK Broughton;2018;club
+432;Aberystwyth Town;2018;club
+433;Prestatyn Town;2018;club
+434;NSI Runavik;2018;club
+435;Sant Julià;2018;club
+436;KI Klaksvik;2018;club
+437;IF Fuglafjørdur;2018;club
+438;St Joseph's FC;2018;club
+439;Trepça'89;2018;club
+440;Libertas;2018;club
+441;FC Prishtina;2018;club
+442;Juvenes Dogana;2018;club
+1;Real Madrid;2019;club
+2;FC Barcelona;2019;club
+3;Bayern München;2019;club
+4;Atlético Madrid;2019;club
+5;Juventus;2019;club
+6;Manchester City;2019;club
+7;Sevilla;2019;club
+8;Paris Saint-Germain;2019;club
+9;Arsenal;2019;club
+10;FC Porto;2019;club
+11;Liverpool;2019;club
+12;Chelsea;2019;club
+13;Borussia Dortmund;2019;club
+14;AS Roma;2019;club
+15;Napoli;2019;club
+16;Shakhtar Donetsk;2019;club
+17;Tottenham Hotspur;2019;club
+18;Manchester United;2019;club
+19;Zenit St. Petersburg;2019;club
+20;Ajax;2019;club
+21;Benfica;2019;club
+22;Villarreal;2019;club
+23;Dinamo Kiev;2019;club
+24;Schalke 04;2019;club
+25;Besiktas;2019;club
+26;AS Monaco;2019;club
+27;Olympique Lyon;2019;club
+28;Bayer Leverkusen;2019;club
+29;FC Salzburg;2019;club
+30;FC Basel;2019;club
+31; Sporting CP Lisbon;2019;club
+32;CSKA Moscow;2019;club
+33;Anderlecht;2019;club
+34;Athletic Bilbao;2019;club
+35;Olympiakos Piraeus;2019;club
+36;VfL Wolfsburg;2019;club
+37;Club Brugge;2019;club
+38;Fiorentina;2019;club
+39;Valencia;2019;club
+40;Lazio;2019;club
+41;PSV Eindhoven;2019;club
+42;Sparta Praha;2019;club
+43;FK Krasnodar;2019;club
+44;Viktoria Plzen;2019;club
+45;Fenerbahçe;2019;club
+46;Internazionale;2019;club
+47;Celtic;2019;club
+48;FC København;2019;club
+49;Olympique Marseille;2019;club
+50;Sporting Braga;2019;club
+51;Dinamo Zagreb;2019;club
+52;AA Gent;2019;club
+53;Borussia Mönchengladbach;2019;club
+54;Lokomotiv Moscow;2019;club
+55;BATE Borisov;2019;club
+56;Young Boys;2019;club
+57;FK Astana;2019;club
+58;Ludogorets Razgrad;2019;club
+59;APOEL Nicosia;2019;club
+60;Racing Genk;2019;club
+61;Legia Warsaw;2019;club
+62;Eintracht Frankfurt;2019;club
+63;Dnipro Dnipropetrovsk;2019;club
+64;Rapid Wien;2019;club
+65;PAOK Thessaloniki;2019;club
+66;FCSB;2019;club
+67;AS Saint-Étienne;2019;club
+68;Galatasaray;2019;club
+69;RB Leipzig;2019;club
+70;Qarabag FK;2019;club
+71;Feyenoord;2019;club
+72;Leicester City;2019;club
+73;Slavia Praha;2019;club
+74;Real Betis;2019;club
+75;Real Sociedad;2019;club
+76;Celta de Vigo;2019;club
+77;Malmö FF;2019;club
+78;AC Milan;2019;club
+79;NK Maribor;2019;club
+80;FC Zürich;2019;club
+81;Partizan Belgrade;2019;club
+82;Standard Liège;2019;club
+83;Burnley FC;2019;club
+84;Everton;2019;club
+85;Southampton FC;2019;club
+86;West Ham United;2019;club
+87;Hull City;2019;club
+88;Red Star Belgrade;2019;club
+89;Spartak Moscow;2019;club
+90;Maccabi Tel-Aviv;2019;club
+91;Dinamo Moscow;2019;club
+92;Atalanta;2019;club
+93;Sassuolo;2019;club
+94;Sampdoria;2019;club
+95;Torino;2019;club
+96;1899 Hoffenheim;2019;club
+97;Hertha BSC;2019;club
+98;1.FC Köln;2019;club
+99;SC Freiburg;2019;club
+100;FSV Mainz 05;2019;club
+101;FC Augsburg;2019;club
+102;AEK Athens;2019;club
+103;FC Midtjylland;2019;club
+104;Molde FK;2019;club
+105;NK Rijeka;2019;club
+106;FK Rostov;2019;club
+107;Astra Giurgiu;2019;club
+108;Sheriff Tiraspol;2019;club
+109;Apollon Limassol;2019;club
+110;Hapoel Beer-Sheva;2019;club
+111;Stade Rennais;2019;club
+112;Girondins Bordeaux;2019;club
+113;OGC Nice;2019;club
+114;Lille OSC;2019;club
+115;En Avant Guingamp;2019;club
+116;Rosenborg BK;2019;club
+117;Zorya Luhansk;2019;club
+118;Istanbul Basaksehir;2019;club
+119;AZ Alkmaar;2019;club
+120;FC Ufa;2019;club
+121;Rubin Kazan;2019;club
+122;Östersunds FK;2019;club
+123;Rio Ave;2019;club
+124;Vitória Guimarães;2019;club
+125;Maritimo Funchal;2019;club
+126;FC Arouca;2019;club
+127;CF Os Belenenses;2019;club
+128;Estoril Praia;2019;club
+129;Nacional Funchal;2019;club
+130;Asteras Tripolis;2019;club
+131;Videoton Fehérvár;2019;club
+132;Dinamo Minsk;2019;club
+133;HJK Helsinki;2019;club
+134;FC Sion;2019;club
+135;Slovan Liberec;2019;club
+136;Spartak Trnava;2019;club
+137;AEK Larnaca;2019;club
+138;Hajduk Split;2019;club
+139;Lech Poznan;2019;club
+140;Austria Wien;2019;club
+141;Osmanlispor;2019;club
+142;Trabzonspor;2019;club
+143;Zulte Waregem;2019;club
+144;KV Oostende;2019;club
+145;Charleroi;2019;club
+146;KSC Lokeren;2019;club
+147;Vorskla Poltava;2019;club
+148;FC Mariupol;2019;club
+149;FC Oleksandriya;2019;club
+150;Olimpik Donetsk;2019;club
+151;Metalist Kharkiv;2019;club
+152;Chernomorets Odesa;2019;club
+153;Brøndby IF;2019;club
+154;Vitesse Arnhem;2019;club
+155;Dundalk;2019;club
+156;Konyaspor;2019;club
+157;Skënderbeu Korçë;2019;club
+158;Panathinaikos;2019;club
+159;Akhisarspor;2019;club
+160;Karabükspor;2019;club
+161;Bursaspor;2019;club
+162;AS Trencín;2019;club
+163;FC Utrecht;2019;club
+164;Heracles Almelo;2019;club
+165;FC Groningen;2019;club
+166;Go Ahead Eagles;2019;club
+167;FC Twente Enschede;2019;club
+168;PEC Zwolle;2019;club
+169;F91 Dudelange;2019;club
+170;Sturm Graz;2019;club
+171;LASK Linz;2019;club
+172;Admira Wacker;2019;club
+173;Gabala FK;2019;club
+174;SCR Altach;2019;club
+175;Wolfsberger AC;2019;club
+176;St. Pölten;2019;club
+177;SV Grödig;2019;club
+178;Shkendija Tetovo;2019;club
+179;Zalgiris Vilnius;2019;club
+180;The New Saints;2019;club
+181;Slovan Bratislava;2019;club
+182;FC Lugano;2019;club
+183;AaB Aalborg;2019;club
+184;FK Jablonec;2019;club
+185;Sigma Olomouc;2019;club
+186;FC Zlin;2019;club
+187;Mladá Boleslav;2019;club
+188;Atromitos FC;2019;club
+189;Panionios;2019;club
+190;PAS Giannina;2019;club
+191;FH Hafnarfjardar;2019;club
+192;Aberdeen;2019;club
+193;AIK Stockholm;2019;club
+194;NK Osijek;2019;club
+195;Lokomotiva Zagreb;2019;club
+196;RNK Split;2019;club
+197;FC Nordsjælland;2019;club
+198;Lyngby BK;2019;club
+199;SønderjyskE;2019;club
+200;Randers FC;2019;club
+201;Esbjerg fB;2019;club
+202;FC Luzern;2019;club
+203;FC Sankt Gallen;2019;club
+204;Grasshoppers Zürich;2019;club
+205;FC Thun;2019;club
+206;Glasgow Rangers;2019;club
+207;Zrinjski Mostar;2019;club
+208;Kairat Almaty;2019;club
+209;Vardar Skopje;2019;club
+210;Anorthosis Famagusta;2019;club
+211;AEL Limassol;2019;club
+212;Omonia Nicosia;2019;club
+213;Ermis Aradippou;2019;club
+214;FK Kukësi;2019;club
+215;Alashkert FC;2019;club
+216;Spartak Subotica;2019;club
+217;Radnicki Nis;2019;club
+218;Vojvodina Novi Sad;2019;club
+219;Mladost Lucani;2019;club
+220;Cukaricki Belgrade;2019;club
+221;FK Jagodina;2019;club
+222;Hibernian;2019;club
+223;St. Johnstone;2019;club
+224;Hearts FC;2019;club
+225;Inverness CT;2019;club
+226;Motherwell;2019;club
+227;Dynamo Brest;2019;club
+228;Shakhtior Saligorsk;2019;club
+229;Torpedo Zhodino;2019;club
+230;Neman Grodno;2019;club
+231;Suduva Marijampole;2019;club
+232;NK Domzale;2019;club
+233;Valletta FC;2019;club
+234;Lincoln Red Imps;2019;club
+235;Crusaders Belfast;2019;club
+236;FK Ventspils;2019;club
+237;Stjarnan FC;2019;club
+238;FK Sarajevo;2019;club
+239;Rabotnicki Skopje;2019;club
+240;BK Häcken;2019;club
+241;Djurgårdens IF;2019;club
+242;IFK Norrköping;2019;club
+243;IFK Göteborg;2019;club
+244;IF Elfsborg;2019;club
+245;IF Brommapojkarna;2019;club
+246;Sarpsborg 08;2019;club
+247;Lillestrøm SK;2019;club
+248;Odd Grenland;2019;club
+249;FK Haugesund;2019;club
+250;SK Brann Bergen;2019;club
+251;Strømsgodset IF;2019;club
+252;Stabæk IF;2019;club
+253;Tromsø IL;2019;club
+254;Viitorul Constanta;2019;club
+255;CS Fola Esch;2019;club
+256;Víkingur;2019;club
+257;FC Vaduz;2019;club
+258;FC Santa Coloma;2019;club
+259;Jagiellonia Bialystok;2019;club
+260;Górnik Zabrze;2019;club
+261;Tobol Kustanai;2019;club
+262;Irtysh Pavlodar;2019;club
+263;Arka Gdynia;2019;club
+264;Ordabasy Shymkent;2019;club
+265;Zaglebie Lubin;2019;club
+266;Piast Gliwice;2019;club
+267;FK Aktobe;2019;club
+268;Cracovia Kraków;2019;club
+269;Slask Wroclaw;2019;club
+270;Ruch Chorzow;2019;club
+271;Shakhtyor Karaganda;2019;club
+272;Zawisza Bydgoszcz;2019;club
+273;Kesla FK;2019;club
+274;Neftchi Baku;2019;club
+275;Zira FK;2019;club
+276;Kapaz Ganja;2019;club
+277;Olimpija Ljubljana;2019;club
+278;Spartaks Jurmala;2019;club
+279;Cork City;2019;club
+280;Pyunik Yerevan;2019;club
+281;Dinamo Tbilisi;2019;club
+282;Hapoel Haifa;2019;club
+283;Beitar Jerusalem;2019;club
+284;Bnei Yehuda;2019;club
+285;Maccabi Haifa;2019;club
+286;Hapoel Kiryat Shmona;2019;club
+287;Hapoel Tel-Aviv;2019;club
+288;CFR Cluj;2019;club
+289;CSKA Sofia;2019;club
+290;Zeljeznicar Sarajevo;2019;club
+291;Slavia Sofia;2019;club
+292;Ferencváros;2019;club
+293;Kalju Nomme;2019;club
+294;Levski Sofia;2019;club
+295;Botev Plovdiv;2019;club
+296;Dunav Ruse;2019;club
+297;FC Beroe Stara Zagora;2019;club
+298;Cherno More Varna;2019;club
+299;Litex Lovech;2019;club
+300;FK Trakai;2019;club
+301;Buducnost Podgorica;2019;club
+302;Levadia Tallinn;2019;club
+303;Universitatea Craiova;2019;club
+304;Dinamo Bucuresti;2019;club
+305;Pandurii Târgu Jiu;2019;club
+306;CSMS Iasi;2019;club
+307;ASA Tirgu Mures;2019;club
+308;FC Botosani;2019;club
+309;Petrolul Ploiesti;2019;club
+310;DAC Dunajska Streda;2019;club
+311;MSK Zilina;2019;club
+312;MFK Ruzomberok;2019;club
+313;Spartak Myjava;2019;club
+314;MFK Kosice;2019;club
+315;La Fiorita;2019;club
+316;B36 Torshavn;2019;club
+317;Chikhura Sachkhere;2019;club
+318;Sutjeska Niksic;2019;club
+319;Rudar Velenje;2019;club
+320;OFK Titograd;2019;club
+321;Partizani Tirana;2019;club
+322;Nova Gorica;2019;club
+323;DVSC Debrecen;2019;club
+324;NK Koper;2019;club
+325;NK Celje;2019;club
+326;Torpedo Kutaisi;2019;club
+327;Valur Reykjavik;2019;club
+328;Progrès Niederkorn;2019;club
+329;Milsami Orhei;2019;club
+330;Honvéd Budapest;2019;club
+331;Flora Tallinn;2019;club
+332;FK Liepaja;2019;club
+333;Cliftonville;2019;club
+334;Hibernians FC;2019;club
+335;KR Reykjavik;2019;club
+336;Balzan FC;2019;club
+337;KF Laçi;2019;club
+338;Samtredia;2019;club
+339;Shamrock Rovers;2019;club
+340;Siroki Brijeg;2019;club
+341;Rudar Pljevlja;2019;club
+342;Birkirkara;2019;club
+343;Linfield Belfast;2019;club
+344;Újpest TE;2019;club
+345;Vasas Budapest;2019;club
+346;MTK Budapest;2019;club
+347;Diósgyöri Miskolc;2019;club
+348;ETO Györ;2019;club
+349;Europa FC;2019;club
+350;FK Jelgava;2019;club
+351;Zimbru Chisinau;2019;club
+352;Zaria Balti;2019;club
+353;Connah's Quay;2019;club
+354;NSI Runavik;2019;club
+355;Derry City;2019;club
+356;Glenavon;2019;club
+357;Banants Yerevan;2019;club
+358;Folgore;2019;club
+359;St. Patrick's Athletic;2019;club
+360;FK Shkupi;2019;club
+361;Pelister Bitola;2019;club
+362;Sileks Kratovo;2019;club
+363;Renova Dzepciste;2019;club
+364;Metalurg Skopje;2019;club
+365;FK Turnovo;2019;club
+366;Petrocub Hîncesti;2019;club
+367;Dacia Chisinau;2019;club
+368;Saxan Gagauz Yeri;2019;club
+369;FC Tiraspol;2019;club
+370;Veris Chisinau;2019;club
+371;FC Drita;2019;club
+372;Luftëtari Gjirokastër;2019;club
+373;SJK Seinäjoki;2019;club
+374;Shirak Gyumri;2019;club
+375;KF Tirana;2019;club
+376;HB Torshavn;2019;club
+377;Teuta Durrës;2019;club
+378;KS Flamurtari Vlorë;2019;club
+379;Uni College Dublin;2019;club
+380;Sligo Rovers;2019;club
+381;FC Lahti;2019;club
+382;Ilves Tampere;2019;club
+383;KuPS Kuopio;2019;club
+384;IFK Mariehamn;2019;club
+385;VPS Vaasa;2019;club
+386;RoPS Rovaniemi;2019;club
+387;MyPa-47;2019;club
+388;Honka Espoo;2019;club
+389;IBV Vestmannaeyjar;2019;club
+390;Breidablik;2019;club
+391;Vikingur Reykjavik;2019;club
+392;Fram Reykjavik;2019;club
+393;Radnik Bijeljina;2019;club
+394;Sloboda Tuzla;2019;club
+395;Olimpic Sarajevo;2019;club
+396;Stumbras Kaunas;2019;club
+397;Atlantas Klaipeda;2019;club
+398;Kruoja Pakruojis;2019;club
+399;Banga Gargzdai;2019;club
+400;Ekranas Panevezys;2019;club
+401;Gandzasar Kapan;2019;club
+402;KI Klaksvik;2019;club
+403;Coleraine;2019;club
+404;FC Prishtina;2019;club
+405;Bala Town;2019;club
+406;Sant Julià;2019;club
+407;Differdange 03;2019;club
+408;Dila Gori;2019;club
+409;Riga FC;2019;club
+410;Skonto Riga;2019;club
+411;Daugava Daugavpils;2019;club
+412;Daugava Riga;2019;club
+413;Racing Union Luxembourg;2019;club
+414;Jeunesse d'Esch;2019;club
+415;Ulisses Yerevan;2019;club
+416;Mika Ashtarak;2019;club
+417;Gzira United;2019;club
+418;Floriana;2019;club
+419;Sliema Wanderers;2019;club
+420;Trans Narva;2019;club
+421;UE Engordany;2019;club
+422;Tre Fiori;2019;club
+423;FCI Tallinn;2019;club
+424;Kalev Sillamäe;2019;club
+425;Santos Tartu;2019;club
+426;Dinamo Batumi;2019;club
+427;Spartak Tskhinvali;2019;club
+428;FC Zestafoni;2019;club
+429;Sioni Bolnisi;2019;club
+430;Cefn Druids;2019;club
+431;Bangor City;2019;club
+432;Zeta Golubovci;2019;club
+433;Bokelj Kotor;2019;club
+434;Llandudno FC;2019;club
+435;Newtown;2019;club
+436;Airbus UK Broughton;2019;club
+437;Aberystwyth Town;2019;club
+438;Celik Niksic;2019;club
+439;Lovcen Cetinje;2019;club
+440;St Joseph's FC;2019;club
+441;IF Fuglafjørdur;2019;club
+442;Ballymena United;2019;club
+443;Glentoran;2019;club
+444;Tre Penne;2019;club
+445;UE Santa Coloma;2019;club
+446;Trepça'89;2019;club
+447;FC Lusitanos;2019;club
+448;Juvenes Dogana;2019;club
+449;Libertas;2019;club
+1;Bayern München;2020;club
+2;Real Madrid;2020;club
+3;FC Barcelona;2020;club
+4;Atlético Madrid;2020;club
+5;Juventus;2020;club
+6;Manchester City;2020;club
+7;Paris Saint-Germain;2020;club
+8;Sevilla;2020;club
+9;Manchester United;2020;club
+10;Liverpool;2020;club
+11;Arsenal;2020;club
+12;Shakhtar Donetsk;2020;club
+13;Borussia Dortmund;2020;club
+14;Tottenham Hotspur;2020;club
+15;Olympique Lyon;2020;club
+16;Chelsea;2020;club
+17;AS Roma;2020;club
+18;Napoli;2020;club
+19;FC Porto;2020;club
+20;Benfica;2020;club
+21;Ajax;2020;club
+22;Zenit St. Petersburg;2020;club
+23;Bayer Leverkusen;2020;club
+24;FC Basel;2020;club
+25;Villarreal;2020;club
+26;Dinamo Kiev;2020;club
+27;Valencia;2020;club
+28;Besiktas;2020;club
+29;FC Salzburg;2020;club
+30;Sporting CP Lisbon;2020;club
+31;RB Leipzig;2020;club
+32;Schalke 04;2020;club
+33;Internazionale;2020;club
+34;CSKA Moscow;2020;club
+35;Olympiakos Piraeus;2020;club
+36;FC København;2020;club
+37;Sporting Braga;2020;club
+38;Lazio;2020;club
+39;AS Monaco;2020;club
+40;AA Gent;2020;club
+41;PSV Eindhoven;2020;club
+42;VfL Wolfsburg;2020;club
+43;Anderlecht;2020;club
+44;Athletic Bilbao;2020;club
+45;FK Krasnodar;2020;club
+46;Celtic;2020;club
+47;Viktoria Plzen;2020;club
+48;Atalanta;2020;club
+49;Dinamo Zagreb;2020;club
+50;Eintracht Frankfurt;2020;club
+51;Lokomotiv Moscow;2020;club
+52;Fenerbahçe;2020;club
+53;Olympique Marseille;2020;club
+54;Sparta Praha;2020;club
+55;Racing Genk;2020;club
+56;FK Astana;2020;club
+57;Club Brugge;2020;club
+58;APOEL Nicosia;2020;club
+59;Slavia Praha;2020;club
+60;Ludogorets Razgrad;2020;club
+61;Borussia Mönchengladbach;2020;club
+62;Young Boys;2020;club
+63;BATE Borisov;2020;club
+64;Galatasaray;2020;club
+65;Red Star Belgrade;2020;club
+66;Malmö FF;2020;club
+67;Partizan Belgrade;2020;club
+68;AS Saint-Étienne;2020;club
+69;Rapid Wien;2020;club
+70;Leicester City;2020;club
+71;Istanbul Basaksehir;2020;club
+72;Qarabag FK;2020;club
+73;PAOK Thessaloniki;2020;club
+74;Standard Liège;2020;club
+75;FCSB;2020;club
+76;Getafe;2020;club
+77;Espanyol;2020;club
+78;Real Betis;2020;club
+79;Real Sociedad;2020;club
+80;Celta de Vigo;2020;club
+81;AC Milan;2020;club
+82;Fiorentina;2020;club
+83;AZ Alkmaar;2020;club
+84;Spartak Moscow;2020;club
+85;Wolverhampton Wanderers;2020;club
+86;Burnley FC;2020;club
+87;Everton;2020;club
+88;Southampton FC;2020;club
+89;West Ham United;2020;club
+90;Feyenoord;2020;club
+91;Legia Warsaw;2020;club
+92;AEK Athens;2020;club
+93;Maccabi Tel-Aviv;2020;club
+94;Glasgow Rangers;2020;club
+95;Molde FK;2020;club
+96;1899 Hoffenheim;2020;club
+97;Hertha BSC;2020;club
+98;1.FC Köln;2020;club
+99;SC Freiburg;2020;club
+100;FSV Mainz 05;2020;club
+101;FC Augsburg;2020;club
+102;FC Midtjylland;2020;club
+103;Torino;2020;club
+104;Sassuolo;2020;club
+105;Sampdoria;2020;club
+106;LASK;2020;club
+107;Stade Rennais;2020;club
+108;NK Maribor;2020;club
+109;Hapoel Beer-Sheva;2020;club
+110;Rosenborg BK;2020;club
+111;FC Zürich;2020;club
+112;Sheriff Tiraspol;2020;club
+113;CFR Cluj;2020;club
+114;Apollon Limassol;2020;club
+115;Zorya Luhansk;2020;club
+116;FK Rostov;2020;club
+117;Lille OSC;2020;club
+118;RC Strasbourg;2020;club
+119;Girondins Bordeaux;2020;club
+120;OGC Nice;2020;club
+121;NK Rijeka;2020;club
+122;FC Fehérvár;2020;club
+123;AEK Larnaca;2020;club
+124;Austria Wien;2020;club
+125;Östersunds FK;2020;club
+126;Vitória Guimarães;2020;club
+127;Rio Ave;2020;club
+128;Maritimo Funchal;2020;club
+129;FC Arouca;2020;club
+130;CF Os Belenenses;2020;club
+131;Astra Giurgiu;2020;club
+132;Arsenal Tula;2020;club
+133;FC Ufa;2020;club
+134;Rubin Kazan;2020;club
+135;Ferencváros;2020;club
+136;FC Lugano;2020;club
+137;FC Sion;2020;club
+138;Brøndby IF;2020;club
+139;Dundalk;2020;club
+140;Spartak Trnava;2020;club
+141;F91 Dudelange;2020;club
+142;Osmanlispor;2020;club
+143;Slovan Liberec;2020;club
+144;Royal Antwerp;2020;club
+145;Zulte Waregem;2020;club
+146;KV Oostende;2020;club
+147;Charleroi;2020;club
+148;Gabala FK;2020;club
+149;Hajduk Split;2020;club
+150;Shkendija Tetovo;2020;club
+151;FC Oleksandriya;2020;club
+152;FC Mariupol;2020;club
+153;Vorskla Poltava;2020;club
+154;Olimpik Donetsk;2020;club
+155;Dnipro Dnipropetrovsk;2020;club
+156;FC Utrecht;2020;club
+157;Vitesse Arnhem;2020;club
+158;Heracles Almelo;2020;club
+159;FC Groningen;2020;club
+160;Go Ahead Eagles;2020;club
+161;Slovan Bratislava;2020;club
+162;AIK Stockholm;2020;club
+163;The New Saints;2020;club
+164;HJK Helsinki;2020;club
+165;FK Jablonec;2020;club
+166;Dinamo Minsk;2020;club
+167;Lech Poznan;2020;club
+168;Konyaspor;2020;club
+169;Suduva Marijampole;2020;club
+170;Trabzonspor;2020;club
+171;Yeni Malatyaspor;2020;club
+172;Akhisarspor;2020;club
+173;Wolfsberger AC;2020;club
+174;Sturm Graz;2020;club
+175;Admira Wacker;2020;club
+176;SCR Altach;2020;club
+177;Aberdeen;2020;club
+178;Zrinjski Mostar;2020;club
+179;Alashkert FC;2020;club
+180;Kairat Almaty;2020;club
+181;Zalgiris Vilnius;2020;club
+182;Skënderbeu Korçë;2020;club
+183;Esbjerg fB;2020;club
+184;FC Nordsjælland;2020;club
+185;Lyngby BK;2020;club
+186;SønderjyskE;2020;club
+187;Randers FC;2020;club
+188;NK Domzale;2020;club
+189;Kilmarnock;2020;club
+190;Hibernian;2020;club
+191;St. Johnstone;2020;club
+192;Hearts FC;2020;club
+193;Inverness CT;2020;club
+194;FC Luzern;2020;club
+195;Pyunik Yerevan;2020;club
+196;FC Vaduz;2020;club
+197;Viitorul Constanta;2020;club
+198;FK Kukësi;2020;club
+199;AS Trencín;2020;club
+200;Mladá Boleslav;2020;club
+201;Sigma Olomouc;2020;club
+202;FC Zlin;2020;club
+203;AEL Limassol;2020;club
+204;Anorthosis Famagusta;2020;club
+205;Omonia Nicosia;2020;club
+206;FC Thun;2020;club
+207;FC Sankt Gallen;2020;club
+208;Grasshoppers Zürich;2020;club
+209;Atromitos FC;2020;club
+210;Aris Thessaloniki;2020;club
+211;Asteras Tripolis;2020;club
+212;Panathinaikos;2020;club
+213;Panionios;2020;club
+214;PAS Giannina;2020;club
+215;Valletta FC;2020;club
+216;FK Ventspils;2020;club
+217;Olimpija Ljubljana;2020;club
+218;Crusaders Belfast;2020;club
+219;Lincoln Red Imps;2020;club
+220;Cukaricki Belgrade;2020;club
+221;Radnicki Nis;2020;club
+222;Spartak Subotica;2020;club
+223;Vojvodina Novi Sad;2020;club
+224;Mladost Lucani;2020;club
+225;Universitatea Craiova;2020;club
+226;Kalju Nomme;2020;club
+227;Vardar Skopje;2020;club
+228;NK Osijek;2020;club
+229;Lokomotiva Zagreb;2020;club
+230;Shakhtior Saligorsk;2020;club
+231;FK Sarajevo;2020;club
+232;Dinamo Tbilisi;2020;club
+233;Cork City;2020;club
+234;CS Fola Esch;2020;club
+235;IFK Norrköping;2020;club
+236;BK Häcken;2020;club
+237;Djurgårdens IF;2020;club
+238;IFK Göteborg;2020;club
+239;IF Elfsborg;2020;club
+240;FC Santa Coloma;2020;club
+241;Partizani Tirana;2020;club
+242;FH Hafnarfjardar;2020;club
+243;FK Haugesund;2020;club
+244;SK Brann Bergen;2020;club
+245;Sarpsborg 08;2020;club
+246;Lillestrøm SK;2020;club
+247;Odd Grenland;2020;club
+248;Strømsgodset IF;2020;club
+249;Stabæk IF;2020;club
+250;Linfield Belfast;2020;club
+251;Valur Reykjavik;2020;club
+252;Progrès Niederkorn;2020;club
+253;Stjarnan FC;2020;club
+254;Buducnost Podgorica;2020;club
+255;FK Riteriai;2020;club
+256;CSKA Sofia;2020;club
+257;Sutjeska Niksic;2020;club
+258;Honvéd Budapest;2020;club
+259;Flora Tallinn;2020;club
+260;FK Liepaja;2020;club
+261;OFK Titograd;2020;club
+262;Bnei Yehuda;2020;club
+263;Maccabi Haifa;2020;club
+264;Hapoel Haifa;2020;club
+265;Beitar Jerusalem;2020;club
+266;Hapoel Kiryat Shmona;2020;club
+267;Ordabasy Shymkent;2020;club
+268;Tobol Kustanai;2020;club
+269;Irtysh Pavlodar;2020;club
+270;FK Aktobe;2020;club
+271;FC Vitebsk;2020;club
+272;Dynamo Brest;2020;club
+273;Torpedo Zhodino;2020;club
+274;Neftchi Baku;2020;club
+275;Shamrock Rovers;2020;club
+276;Torpedo Kutaisi;2020;club
+277;B36 Torshavn;2020;club
+278;Milsami Orhei;2020;club
+279;Sabail FK;2020;club
+280;Spartaks Jurmala;2020;club
+281;Kesla FK;2020;club
+282;Zira FK;2020;club
+283;Kapaz Ganja;2020;club
+284;Riga FC;2020;club
+285;Chikhura Sachkhere;2020;club
+286;Levski Sofia;2020;club
+287;Lokomotiv Plovdiv;2020;club
+288;Slavia Sofia;2020;club
+289;Botev Plovdiv;2020;club
+290;Dunav Ruse;2020;club
+291;FC Beroe Stara Zagora;2020;club
+292;Cherno More Varna;2020;club
+293;Litex Lovech;2020;club
+294;Dinamo Bucuresti;2020;club
+295;Pandurii Târgu Jiu;2020;club
+296;CSMS Iasi;2020;club
+297;ASA Tirgu Mures;2020;club
+298;FC Botosani;2020;club
+299;Piast Gliwice;2020;club
+300;Lechia Gdansk;2020;club
+301;Cracovia Kraków;2020;club
+302;Jagiellonia Bialystok;2020;club
+303;Górnik Zabrze;2020;club
+304;Arka Gdynia;2020;club
+305;Zaglebie Lubin;2020;club
+306;Slask Wroclaw;2020;club
+307;Connah's Quay;2020;club
+308;Balzan FC;2020;club
+309;Levadia Tallinn;2020;club
+310;Hibernians FC;2020;club
+311;Rabotnicki Skopje;2020;club
+312;DAC Dunajska Streda;2020;club
+313;MFK Ruzomberok;2020;club
+314;MSK Zilina;2020;club
+315;Spartak Myjava;2020;club
+316;DVSC Debrecen;2020;club
+317;La Fiorita;2020;club
+318;Víkingur;2020;club
+319;Zeljeznicar Sarajevo;2020;club
+320;KI Klaksvik;2020;club
+321;KF Laçi;2020;club
+322;Siroki Brijeg;2020;club
+323;Europa FC;2020;club
+324;Mura Murska Sobota;2020;club
+325;Rudar Velenje;2020;club
+326;Nova Gorica;2020;club
+327;NK Koper;2020;club
+328;NK Celje;2020;club
+329;Újpest TE;2020;club
+330;Vasas Budapest;2020;club
+331;MTK Budapest;2020;club
+332;Ararat-Armenia;2020;club
+333;KuPS Kuopio;2020;club
+334;Gzira United;2020;club
+335;Cliftonville;2020;club
+336;KR Reykjavik;2020;club
+337;Tre Penne;2020;club
+338;Urartu FC;2020;club
+339;NSI Runavik;2020;club
+340;Samtredia;2020;club
+341;Rudar Pljevlja;2020;club
+342;Saburtalo Tbilisi;2020;club
+343;HB Torshavn;2020;club
+344;FK Shkupi;2020;club
+345;Petrocub Hîncesti;2020;club
+346;Trans Narva;2020;club
+347;UE Engordany;2020;club
+348;Birkirkara;2020;club
+349;Jeunesse d'Esch;2020;club
+350;St Joseph's FC;2020;club
+351;St. Patrick's Athletic;2020;club
+352;FC Prishtina;2020;club
+353;Zaria Balti;2020;club
+354;FK Jelgava;2020;club
+355;Racing Union Luxembourg;2020;club
+356;Differdange 03;2020;club
+357;Kauno Zalgiris;2020;club
+358;Stumbras Kaunas;2020;club
+359;Atlantas Klaipeda;2020;club
+360;Kruoja Pakruojis;2020;club
+361;RFS Riga;2020;club
+362;Gandzasar Kapan;2020;club
+363;Shirak Gyumri;2020;club
+364;Skonto Riga;2020;club
+365;Ulisses Yerevan;2020;club
+366;Feronikeli;2020;club
+367;RoPS Rovaniemi;2020;club
+368;Tre Fiori;2020;club
+369;Sant Julià;2020;club
+370;FC Drita;2020;club
+371;Glenavon;2020;club
+372;Folgore;2020;club
+373;SJK Seinäjoki;2020;club
+374;Teuta Durrës;2020;club
+375;Akademija Pandev;2020;club
+376;Makedonija GjP;2020;club
+377;Luftëtari Gjirokastër;2020;club
+378;KF Tirana;2020;club
+379;Pelister Bitola;2020;club
+380;Sileks Kratovo;2020;club
+381;Renova Dzepciste;2020;club
+382;Radnik Bijeljina;2020;club
+383;Sloboda Tuzla;2020;club
+384;Olimpic Sarajevo;2020;club
+385;Speranta Nisporeni;2020;club
+386;Dacia Chisinau;2020;club
+387;Zimbru Chisinau;2020;club
+388;Saxan Gagauz Yeri;2020;club
+389;Derry City;2020;club
+390;Uni College Dublin;2020;club
+391;Inter Turku;2020;club
+392;FC Lahti;2020;club
+393;Ilves Tampere;2020;club
+394;IFK Mariehamn;2020;club
+395;VPS Vaasa;2020;club
+396;Ballymena United;2020;club
+397;Zeta Golubovci;2020;club
+398;Breidablik;2020;club
+399;Coleraine;2020;club
+400;Bala Town;2020;club
+401;Dila Gori;2020;club
+402;Dinamo Batumi;2020;club
+403;Floriana;2020;club
+404;Spartak Tskhinvali;2020;club
+405;IBV Vestmannaeyjar;2020;club
+406;Vikingur Reykjavik;2020;club
+407;Barry Town;2020;club
+408;Cardiff MU;2020;club
+409;Cefn Druids;2020;club
+410;Bangor City;2020;club
+411;Llandudno FC;2020;club
+412;Newtown;2020;club
+413;Airbus UK Broughton;2020;club
+414;Glentoran;2020;club
+415;FCI Tallinn;2020;club
+416;Bokelj Kotor;2020;club
+417;Kalev Sillamäe;2020;club
+418;Trepça'89;2020;club
+419;UE Santa Coloma;2020;club
+420;FC Lusitanos;2020;club
+421;Juvenes Dogana;2020;club
+1;Bayern München;2021;club
+2;Real Madrid;2021;club
+3;Manchester City;2021;club
+4;FC Barcelona;2021;club
+5;Juventus;2021;club
+6;Atlético Madrid;2021;club
+7;Manchester United;2021;club
+8;Paris Saint-Germain;2021;club
+9;Liverpool;2021;club
+10;Arsenal;2021;club
+11;Chelsea;2021;club
+12;Sevilla;2021;club
+13;AS Roma;2021;club
+14;Borussia Dortmund;2021;club
+15;Tottenham Hotspur;2021;club
+16;FC Porto;2021;club
+17;Ajax;2021;club
+18;Shakhtar Donetsk;2021;club
+19;Olympique Lyon;2021;club
+20;Napoli;2021;club
+21;RB Leipzig;2021;club
+22;Villarreal;2021;club
+23;FC Salzburg;2021;club
+24;Benfica;2021;club
+25;Bayer Leverkusen;2021;club
+26;Internazionale;2021;club
+27;Atalanta;2021;club
+28;Zenit St. Petersburg;2021;club
+29;FC Basel;2021;club
+30;Besiktas;2021;club
+31;Dinamo Kiev;2021;club
+32;Sporting CP Lisbon;2021;club
+33;Dinamo Zagreb;2021;club
+34;Lazio;2021;club
+35;Slavia Praha;2021;club
+36;FC København;2021;club
+37;Olympiakos Piraeus;2021;club
+38;CSKA Moscow;2021;club
+39;Valencia;2021;club
+40;AS Monaco;2021;club
+41;Club Brugge;2021;club
+42;Young Boys;2021;club
+43;Sporting Braga;2021;club
+44;Schalke 04;2021;club
+45;FK Krasnodar;2021;club
+46;Celtic;2021;club
+47;Viktoria Plzen;2021;club
+48;Borussia Mönchengladbach;2021;club
+49;Eintracht Frankfurt;2021;club
+50;Red Star Belgrade;2021;club
+51;Leicester City;2021;club
+52;Glasgow Rangers;2021;club
+53;AC Milan;2021;club
+54;Lokomotiv Moscow;2021;club
+55;Racing Genk;2021;club
+56;PSV Eindhoven;2021;club
+57;Olympique Marseille;2021;club
+58;Ludogorets Razgrad;2021;club
+59;APOEL Nicosia;2021;club
+60;Istanbul Basaksehir;2021;club
+61;AA Gent;2021;club
+62;Anderlecht;2021;club
+63;1899 Hoffenheim;2021;club
+64;FK Astana;2021;club
+65;Standard Liège;2021;club
+66;AZ Alkmaar;2021;club
+67;LASK;2021;club
+68;Feyenoord;2021;club
+69;Qarabag FK;2021;club
+70;FCSB;2021;club
+71;Maccabi Tel-Aviv;2021;club
+72;Wolverhampton Wanderers;2021;club
+73;Burnley FC;2021;club
+74;Everton;2021;club
+75;Southampton FC;2021;club
+76;West Ham United;2021;club
+77;PAOK Thessaloniki;2021;club
+78;Granada CF;2021;club
+79;Real Sociedad;2021;club
+80;Getafe;2021;club
+81;Espanyol;2021;club
+82;Real Betis;2021;club
+83;Athletic Bilbao;2021;club
+84;Celta de Vigo;2021;club
+85;AEK Athens;2021;club
+86;Fenerbahçe;2021;club
+87;Stade Rennais;2021;club
+88;Malmö FF;2021;club
+89;Spartak Moscow;2021;club
+90;Partizan Belgrade;2021;club
+91;Hapoel Beer-Sheva;2021;club
+92;Sparta Praha;2021;club
+93;BATE Borisov;2021;club
+94;Molde FK;2021;club
+95;Rapid Wien;2021;club
+96;Galatasaray;2021;club
+97;CFR Cluj;2021;club
+98;Legia Warsaw;2021;club
+99;Torino;2021;club
+100;Fiorentina;2021;club
+101;Sassuolo;2021;club
+102;Zorya Luhansk;2021;club
+103;VfL Wolfsburg;2021;club
+104;Hertha BSC;2021;club
+105;1.FC Köln;2021;club
+106;SC Freiburg;2021;club
+107;FSV Mainz 05;2021;club
+108;Sheriff Tiraspol;2021;club
+109;Lille OSC;2021;club
+110;Rosenborg BK;2021;club
+111;FK Rostov;2021;club
+112;NK Maribor;2021;club
+113;FC Midtjylland;2021;club
+114;Ferencváros;2021;club
+115;NK Rijeka;2021;club
+116;Apollon Limassol;2021;club
+117;OGC Nice;2021;club
+118;AS Saint-Étienne;2021;club
+119;FC Zürich;2021;club
+120;FC Fehérvár;2021;club
+121;Stade de Reims;2021;club
+122;RC Strasbourg;2021;club
+123;Girondins Bordeaux;2021;club
+124;Wolfsberger AC;2021;club
+125;Royal Antwerp;2021;club
+126;Dundalk;2021;club
+127;Austria Wien;2021;club
+128;Östersunds FK;2021;club
+129;Rio Ave;2021;club
+130;Vitória Guimarães;2021;club
+131;Maritimo Funchal;2021;club
+132;FC Arouca;2021;club
+133;Shkendija Tetovo;2021;club
+134;FC Lugano;2021;club
+135;AEK Larnaca;2021;club
+136;Suduva Marijampole;2021;club
+137;Slovan Liberec;2021;club
+138;CSKA Sofia;2021;club
+139;Zrinjski Mostar;2021;club
+140;Hajduk Split;2021;club
+141;F91 Dudelange;2021;club
+142;Astra Giurgiu;2021;club
+143;Osmanlispor;2021;club
+144;Willem II Tilburg;2021;club
+145;FC Utrecht;2021;club
+146;Vitesse Arnhem;2021;club
+147;Heracles Almelo;2021;club
+148;Dinamo Moscow;2021;club
+149;Arsenal Tula;2021;club
+150;FC Ufa;2021;club
+151;Aberdeen;2021;club
+152;Slovan Bratislava;2021;club
+153;The New Saints;2021;club
+154;Spartak Trnava;2021;club
+155;Charleroi;2021;club
+156;Zulte Waregem;2021;club
+157;KV Oostende;2021;club
+158;TSV Hartberg;2021;club
+159;Sturm Graz;2021;club
+160;Admira Wacker;2021;club
+161;SCR Altach;2021;club
+162;FK Jablonec;2021;club
+163;Brøndby IF;2021;club
+164;Konyaspor;2021;club
+165;Olimpija Ljubljana;2021;club
+166;Motherwell;2021;club
+167;Kilmarnock;2021;club
+168;Hibernian;2021;club
+169;St. Johnstone;2021;club
+170;Hearts FC;2021;club
+171;Desna Chernihiv;2021;club
+172;Kolos Kovalivka;2021;club
+173;FC Oleksandriya;2021;club
+174;FC Mariupol;2021;club
+175;Vorskla Poltava;2021;club
+176;Olimpik Donetsk;2021;club
+177;Dinamo Tbilisi;2021;club
+178;Zalgiris Vilnius;2021;club
+179;Alashkert FC;2021;club
+180;FK Sarajevo;2021;club
+181;Flora Tallinn;2021;club
+182;Sivasspor;2021;club
+183;Alanyaspor;2021;club
+184;Trabzonspor;2021;club
+185;Yeni Malatyaspor;2021;club
+186;Akhisarspor;2021;club
+187;Lech Poznan;2021;club
+188;Buducnost Podgorica;2021;club
+189;Kairat Almaty;2021;club
+190;NK Osijek;2021;club
+191;FK Kukësi;2021;club
+192;Universitatea Craiova;2021;club
+193;Valletta FC;2021;club
+194;Dinamo Minsk;2021;club
+195;AIK Stockholm;2021;club
+196;FK Ventspils;2021;club
+197;Lincoln Red Imps;2021;club
+198;SønderjyskE;2021;club
+199;AGF Aarhus;2021;club
+200;Esbjerg fB;2021;club
+201;FC Nordsjælland;2021;club
+202;Lyngby BK;2021;club
+203;Omonia Nicosia;2021;club
+204;Anorthosis Famagusta;2021;club
+205;AEL Limassol;2021;club
+206;Riga FC;2021;club
+207;Progrès Niederkorn;2021;club
+208;Honvéd Budapest;2021;club
+209;FC Vaduz;2021;club
+210;Kalju Nomme;2021;club
+211;FC Luzern;2021;club
+212;HJK Helsinki;2021;club
+213;Viitorul Constanta;2021;club
+214;NK Domzale;2021;club
+215;Gabala FK;2021;club
+216;Vojvodina Novi Sad;2021;club
+217;TSC Backa Topola;2021;club
+218;Cukaricki Belgrade;2021;club
+219;Radnicki Nis;2021;club
+220;Spartak Subotica;2021;club
+221;Mladost Lucani;2021;club
+222;Mladá Boleslav;2021;club
+223;Sigma Olomouc;2021;club
+224;FC Zlin;2021;club
+225;Lokomotiva Zagreb;2021;club
+226;KI Klaksvik;2021;club
+227;B36 Torshavn;2021;club
+228;Linfield Belfast;2021;club
+229;FK Riteriai;2021;club
+230;CS Fola Esch;2021;club
+231;Shakhtior Saligorsk;2021;club
+232;FC Sankt Gallen;2021;club
+233;Servette FC Genève;2021;club
+234;FC Thun;2021;club
+235;FC Sion;2021;club
+236;Grasshoppers Zürich;2021;club
+237;Aris Thessaloniki;2021;club
+238;OFI Heraklion;2021;club
+239;Atromitos FC;2021;club
+240;Asteras Tripolis;2021;club
+241;Panathinaikos;2021;club
+242;Panionios;2021;club
+243;PAS Giannina;2021;club
+244;Ararat-Armenia;2021;club
+245;KuPS Kuopio;2021;club
+246;Dynamo Brest;2021;club
+247;DAC Dunajska Streda;2021;club
+248;Neftchi Baku;2021;club
+249;FH Hafnarfjardar;2021;club
+250;Maccabi Haifa;2021;club
+251;Beitar Jerusalem;2021;club
+252;Bnei Yehuda;2021;club
+253;Hapoel Haifa;2021;club
+254;Shamrock Rovers;2021;club
+255;Connah's Quay;2021;club
+256;Sutjeska Niksic;2021;club
+257;FC Santa Coloma;2021;club
+258;Pyunik Yerevan;2021;club
+259;Cork City;2021;club
+260;AS Trencín;2021;club
+261;Valur Reykjavik;2021;club
+262;Crusaders Belfast;2021;club
+263;Partizani Tirana;2021;club
+264;Bodø/Glimt;2021;club
+265;Viking Stavanger;2021;club
+266;FK Haugesund;2021;club
+267;SK Brann Bergen;2021;club
+268;Sarpsborg 08;2021;club
+269;Lillestrøm SK;2021;club
+270;Odd Grenland;2021;club
+271;Strømsgodset IF;2021;club
+272;Stabæk IF;2021;club
+273;Djurgårdens IF;2021;club
+274;IFK Göteborg;2021;club
+275;Hammarby IF;2021;club
+276;IFK Norrköping;2021;club
+277;BK Häcken;2021;club
+278;Lokomotiv Plovdiv;2021;club
+279;Slavia Sofia;2021;club
+280;Levski Sofia;2021;club
+281;Botev Plovdiv;2021;club
+282;Dunav Ruse;2021;club
+283;FC Beroe Stara Zagora;2021;club
+284;Piast Gliwice;2021;club
+285;KF Laçi;2021;club
+286;Europa FC;2021;club
+287;FK Liepaja;2021;club
+288;Vardar Skopje;2021;club
+289;Skënderbeu Korçë;2021;club
+290;Hibernians FC;2021;club
+291;Levadia Tallinn;2021;club
+292;Torpedo Kutaisi;2021;club
+293;FC Botosani;2021;club
+294;Dinamo Bucuresti;2021;club
+295;Pandurii Târgu Jiu;2021;club
+296;CSMS Iasi;2021;club
+297;FC Drita;2021;club
+298;KR Reykjavik;2021;club
+299;Chikhura Sachkhere;2021;club
+300;OFK Titograd;2021;club
+301;Kesla FK;2021;club
+302;Sumgayit FK;2021;club
+303;Sabail FK;2021;club
+304;Zira FK;2021;club
+305;Kapaz Ganja;2021;club
+306;La Fiorita;2021;club
+307;Stjarnan FC;2021;club
+308;Spartaks Jurmala;2021;club
+309;Kaysar Kyzylorda;2021;club
+310;Ordabasy Shymkent;2021;club
+311;Tobol Kustanai;2021;club
+312;Irtysh Pavlodar;2021;club
+313;FK Aktobe;2021;club
+314;Puskás Akadémia;2021;club
+315;DVSC Debrecen;2021;club
+316;Újpest TE;2021;club
+317;Vasas Budapest;2021;club
+318;MTK Budapest;2021;club
+319;FC Vitebsk;2021;club
+320;Torpedo Zhodino;2021;club
+321;Cracovia Kraków;2021;club
+322;Lechia Gdansk;2021;club
+323;Jagiellonia Bialystok;2021;club
+324;Górnik Zabrze;2021;club
+325;Arka Gdynia;2021;club
+326;Zaglebie Lubin;2021;club
+327;Mura Murska Sobota;2021;club
+328;Tre Fiori;2021;club
+329;Saburtalo Tbilisi;2021;club
+330;FK Shkupi;2021;club
+331;Petrocub Hîncesti;2021;club
+332;MFK Ruzomberok;2021;club
+333;NSI Runavik;2021;club
+334;Zeljeznicar Sarajevo;2021;club
+335;Balzan FC;2021;club
+336;NK Celje;2021;club
+337;Rudar Velenje;2021;club
+338;Nova Gorica;2021;club
+339;KF Tirana;2021;club
+340;Teuta Durrës;2021;club
+341;Coleraine;2021;club
+342;Tre Penne;2021;club
+343;Siroki Brijeg;2021;club
+344;Víkingur;2021;club
+345;MSK Zilina;2021;club
+346;Spartak Myjava;2021;club
+347;Bala Town;2021;club
+348;UE Engordany;2021;club
+349;Gzira United;2021;club
+350;Cliftonville;2021;club
+351;Floriana;2021;club
+352;Zeta Golubovci;2021;club
+353;Breidablik;2021;club
+354;Derry City;2021;club
+355;HB Torshavn;2021;club
+356;St Joseph's FC;2021;club
+357;FC Prishtina;2021;club
+358;Milsami Orhei;2021;club
+359;Urartu FC;2021;club
+360;Samtredia;2021;club
+361;Lokomotivi Tbilisi;2021;club
+362;Kauno Zalgiris;2021;club
+363;RFS Riga;2021;club
+364;Inter Turku;2021;club
+365;Ilves Tampere;2021;club
+366;Trans Narva;2021;club
+367;Sileks Kratovo;2021;club
+368;Shirak Gyumri;2021;club
+369;Jeunesse d'Esch;2021;club
+370;Rabotnicki Skopje;2021;club
+371;Zaria Balti;2021;club
+372;Stumbras Kaunas;2021;club
+373;Atlantas Klaipeda;2021;club
+374;Differdange 03;2021;club
+375;Union Titus Pétange;2021;club
+376;Racing Union Luxembourg;2021;club
+377;Borac Banja Luka;2021;club
+378;Radnik Bijeljina;2021;club
+379;Sloboda Tuzla;2021;club
+380;Bohemians Dublin;2021;club
+381;St. Patrick's Athletic;2021;club
+382;Renova Dzepciste;2021;club
+383;Akademija Pandev;2021;club
+384;Makedonija GjP;2021;club
+385;Pelister Bitola;2021;club
+386;Sfântul Gheorghe;2021;club
+387;Inter Club d'Escaldes;2021;club
+388;Feronikeli;2021;club
+389;RoPS Rovaniemi;2021;club
+390;Birkirkara;2021;club
+391;FC Noah;2021;club
+392;Valmieras FK;2021;club
+393;Gandzasar Kapan;2021;club
+394;FK Jelgava;2021;club
+395;Luftëtari Gjirokastër;2021;club
+396;Glentoran;2021;club
+397;Ballymena United;2021;club
+398;Glenavon;2021;club
+399;Dinamo Batumi;2021;club
+400;Dinamo-Auto Tiraspol;2021;club
+401;Honka Espoo;2021;club
+402;Speranta Nisporeni;2021;club
+403;FC Lahti;2021;club
+404;IFK Mariehamn;2021;club
+405;VPS Vaasa;2021;club
+406;SJK Seinäjoki;2021;club
+407;Dacia Chisinau;2021;club
+408;Zimbru Chisinau;2021;club
+409;Dila Gori;2021;club
+410;Sirens FC;2021;club
+411;Sant Julià;2021;club
+412;Rudar Pljevlja;2021;club
+413;SC Gjilani;2021;club
+414;Trepça'89;2021;club
+415;Iskra Danilovgrad;2021;club
+416;Vikingur Reykjavik;2021;club
+417;Paide Linnameeskond;2021;club
+418;Barry Town;2021;club
+419;Cardiff MU;2021;club
+420;IBV Vestmannaeyjar;2021;club
+421;Folgore;2021;club
+422;Cefn Druids;2021;club
+423;Bangor City;2021;club
+424;Bokelj Kotor;2021;club
+425;Llandudno FC;2021;club
+426;FCI Tallinn;2021;club
+427;UE Santa Coloma;2021;club
+428;FC Lusitanos;2021;club
+1;Bayern München;2022;club
+2;Liverpool;2022;club
+3;Manchester City;2022;club
+4;Real Madrid;2022;club
+5;Chelsea;2022;club
+6;FC Barcelona;2022;club
+7;Paris Saint-Germain;2022;club
+8;Juventus;2022;club
+9;Atlético Madrid;2022;club
+10;Manchester United;2022;club
+11;AS Roma;2022;club
+12;Sevilla;2022;club
+13;RB Leipzig;2022;club
+14;Tottenham Hotspur;2022;club
+15;Ajax;2022;club
+16;FC Porto;2022;club
+17;Arsenal;2022;club
+18;Villarreal;2022;club
+19;Borussia Dortmund;2022;club
+20;Olympique Lyon;2022;club
+21;FC Salzburg;2022;club
+22;Shakhtar Donetsk;2022;club
+23;Internazionale;2022;club
+24;Atalanta;2022;club
+25;Napoli;2022;club
+26;Eintracht Frankfurt;2022;club
+27;Benfica;2022;club
+28;Sporting CP Lisbon;2022;club
+29;FC Basel;2022;club
+30;Bayer Leverkusen;2022;club
+31;Lazio;2022;club
+32;Slavia Praha;2022;club
+33;Glasgow Rangers;2022;club
+34;Dinamo Zagreb;2022;club
+35;Sporting Braga;2022;club
+36;Red Star Belgrade;2022;club
+37;Zenit St. Petersburg;2022;club
+38;Olympique Marseille;2022;club
+39;Dinamo Kiev;2022;club
+40;Olympiakos Piraeus;2022;club
+41;FC København;2022;club
+42;Feyenoord;2022;club
+43;Valencia;2022;club
+44;Club Brugge;2022;club
+45;AC Milan;2022;club
+46;Young Boys;2022;club
+47;LASK;2022;club
+48;Lokomotiv Moscow;2022;club
+49;Stade Rennais;2022;club
+50;PSV Eindhoven;2022;club
+51;Celtic;2022;club
+52;Besiktas;2022;club
+53;CSKA Moscow;2022;club
+54;Galatasaray;2022;club
+55;Viktoria Plzen;2022;club
+56;Lille OSC;2022;club
+57;Spartak Moscow;2022;club
+58;AZ Alkmaar;2022;club
+59;AA Gent;2022;club
+60;FK Krasnodar;2022;club
+61;AS Monaco;2022;club
+62;Real Sociedad;2022;club
+63;PAOK Thessaloniki;2022;club
+64;Qarabag FK;2022;club
+65;Istanbul Basaksehir;2022;club
+66;Maccabi Tel-Aviv;2022;club
+67;Partizan Belgrade;2022;club
+68;Malmö FF;2022;club
+69;Leicester City;2022;club
+70;Ludogorets Razgrad;2022;club
+71;1899 Hoffenheim;2022;club
+72;Sheriff Tiraspol;2022;club
+73;VfL Wolfsburg;2022;club
+74;West Ham United;2022;club
+75;Wolverhampton Wanderers;2022;club
+76;Burnley FC;2022;club
+77;Everton;2022;club
+78;Real Betis;2022;club
+79;Borussia Mönchengladbach;2022;club
+80;FK Astana;2022;club
+81;AEK Athens;2022;club
+82;CFR Cluj;2022;club
+83;Granada CF;2022;club
+84;Getafe;2022;club
+85;Espanyol;2022;club
+86;Athletic Bilbao;2022;club
+87;FC Midtjylland;2022;club
+88;Molde FK;2022;club
+89;Zorya Luhansk;2022;club
+90;Racing Genk;2022;club
+91;APOEL Nicosia;2022;club
+92;FCSB;2022;club
+93;BATE Borisov;2022;club
+94;Bodø/Glimt;2022;club
+95;Schalke 04;2022;club
+96;Rapid Wien;2022;club
+97;Standard Liège;2022;club
+98;Ferencváros;2022;club
+99;Torino;2022;club
+100;Union Berlin;2022;club
+101;1.FC Köln;2022;club
+102;Hertha BSC;2022;club
+103;SC Freiburg;2022;club
+104;Vitesse Arnhem;2022;club
+105;NK Rijeka;2022;club
+106;Rosenborg BK;2022;club
+107;Fenerbahçe;2022;club
+108;Royal Antwerp;2022;club
+109;Hapoel Beer-Sheva;2022;club
+110;Apollon Limassol;2022;club
+111;NK Maribor;2022;club
+112;Sparta Praha;2022;club
+113;Slovan Bratislava;2022;club
+114;Legia Warsaw;2022;club
+115;OGC Nice;2022;club
+116;Stade de Reims;2022;club
+117;AS Saint-Étienne;2022;club
+118;RC Strasbourg;2022;club
+119;Girondins Bordeaux;2022;club
+120;FK Jablonec;2022;club
+121;Anderlecht;2022;club
+122;FC Fehérvár;2022;club
+123;Wolfsberger AC;2022;club
+124;CD Santa Clara;2022;club
+125;Paços de Ferreira;2022;club
+126;Rio Ave;2022;club
+127;Vitória Guimarães;2022;club
+128;Maritimo Funchal;2022;club
+129;CSKA Sofia;2022;club
+130;Suduva Marijampole;2022;club
+131;Östersunds FK;2022;club
+132;Willem II Tilburg;2022;club
+133;FC Utrecht;2022;club
+134;Flora Tallinn;2022;club
+135;Dundalk;2022;club
+136;Aberdeen;2022;club
+137;Shkendija Tetovo;2022;club
+138;FC Lugano;2022;club
+139;HJK Helsinki;2022;club
+140;Brøndby IF;2022;club
+141;The New Saints;2022;club
+142;Spartak Trnava;2022;club
+143;F91 Dudelange;2022;club
+144;Anorthosis Famagusta;2022;club
+145;Riga FC;2022;club
+146;Kairat Almaty;2022;club
+147;Zalgiris Vilnius;2022;club
+148;Alashkert FC;2022;club
+149;NK Osijek;2022;club
+150;Hajduk Split;2022;club
+151;Sturm Graz;2022;club
+152;Austria Wien;2022;club
+153;TSV Hartberg;2022;club
+154;Admira Wacker;2022;club
+155;SCR Altach;2022;club
+156;Olimpija Ljubljana;2022;club
+157;KuPS Kuopio;2022;club
+158;CS Fola Esch;2022;club
+159;Universitatea Craiova;2022;club
+160;AEK Larnaca;2022;club
+161;St. Johnstone;2022;club
+162;Hibernian;2022;club
+163;Motherwell;2022;club
+164;Kilmarnock;2022;club
+165;Lincoln Red Imps;2022;club
+166;FK Sarajevo;2022;club
+167;Randers FC;2022;club
+168;Omonia Nicosia;2022;club
+169;Maccabi Haifa;2022;club
+170;Neftchi Baku;2022;club
+171;Shamrock Rovers;2022;club
+172;Linfield Belfast;2022;club
+173;Buducnost Podgorica;2022;club
+174;Zrinjski Mostar;2022;club
+175;FC Zürich;2022;club
+176;FC Sochi;2022;club
+177;Rubin Kazan;2022;club
+178;FK Rostov;2022;club
+179;Dinamo Moscow;2022;club
+180;Arsenal Tula;2022;club
+181;FC Ufa;2022;club
+182;Vojvodina Novi Sad;2022;club
+183;Cukaricki Belgrade;2022;club
+184;TSC Backa Topola;2022;club
+185;Radnicki Nis;2022;club
+186;Spartak Subotica;2022;club
+187;Mladost Lucani;2022;club
+188;Sivasspor;2022;club
+189;FC Luzern;2022;club
+190;NK Domzale;2022;club
+191;Dynamo Brest;2022;club
+192;Dinamo Tbilisi;2022;club
+193;DAC Dunajska Streda;2022;club
+194;FC Vaduz;2022;club
+195;Kolos Kovalivka;2022;club
+196;Vorskla Poltava;2022;club
+197;Desna Chernihiv;2022;club
+198;FC Oleksandriya;2022;club
+199;FC Mariupol;2022;club
+200;Olimpik Donetsk;2022;club
+201;Shakhtior Saligorsk;2022;club
+202;Sutjeska Niksic;2022;club
+203;KI Klaksvik;2022;club
+204;Charleroi;2022;club
+205;Zulte Waregem;2022;club
+206;KV Oostende;2022;club
+207;KF Laçi;2022;club
+208;Lech Poznan;2022;club
+209;Servette FC Genève;2022;club
+210;FC Sankt Gallen;2022;club
+211;FC Thun;2022;club
+212;FC Sion;2022;club
+213;Connah's Quay;2022;club
+214;Aris Thessaloniki;2022;club
+215;OFI Heraklion;2022;club
+216;Atromitos FC;2022;club
+217;Asteras Tripolis;2022;club
+218;Panathinaikos;2022;club
+219;Panionios;2022;club
+220;1.FC Slovácko;2022;club
+221;Slovan Liberec;2022;club
+222;Mladá Boleslav;2022;club
+223;Sigma Olomouc;2022;club
+224;FC Zlin;2022;club
+225;Mura Murska Sobota;2022;club
+226;Trabzonspor;2022;club
+227;Lokomotiv Plovdiv;2022;club
+228;Hibernians FC;2022;club
+229;FH Hafnarfjardar;2022;club
+230;FC Santa Coloma;2022;club
+231;Valur Reykjavik;2022;club
+232;Progrès Niederkorn;2022;club
+233;Honvéd Budapest;2022;club
+234;FK Kukësi;2022;club
+235;Vålerengens IF;2022;club
+236;Viking Stavanger;2022;club
+237;FK Haugesund;2022;club
+238;SK Brann Bergen;2022;club
+239;Sarpsborg 08;2022;club
+240;Lillestrøm SK;2022;club
+241;Odd Grenland;2022;club
+242;AGF Aarhus;2022;club
+243;SønderjyskE;2022;club
+244;Esbjerg fB;2022;club
+245;FC Nordsjælland;2022;club
+246;Lyngby BK;2022;club
+247;Lokomotiva Zagreb;2022;club
+248;Alanyaspor;2022;club
+249;Yeni Malatyaspor;2022;club
+250;Akhisarspor;2022;club
+251;Konyaspor;2022;club
+252;AEL Limassol;2022;club
+253;FK Ventspils;2022;club
+254;FC Drita;2022;club
+255;Ararat-Armenia;2022;club
+256;FK Riteriai;2022;club
+257;Valletta FC;2022;club
+258;Dinamo Minsk;2022;club
+259;AIK Stockholm;2022;club
+260;MS Ashdod;2022;club
+261;Beitar Jerusalem;2022;club
+262;Bnei Yehuda;2022;club
+263;Hapoel Haifa;2022;club
+264;Levadia Tallinn;2022;club
+265;B36 Torshavn;2022;club
+266;Hammarby IF;2022;club
+267;IF Elfsborg;2022;club
+268;BK Häcken;2022;club
+269;Djurgårdens IF;2022;club
+270;IFK Göteborg;2022;club
+271;IFK Norrköping;2022;club
+272;MSK Zilina;2022;club
+273;Teuta Durrës;2022;club
+274;Tobol Kustanai;2022;club
+275;Petrocub Hîncesti;2022;club
+276;FK Shkupi;2022;club
+277;FK Liepaja;2022;club
+278;Europa FC;2022;club
+279;Kalju Nomme;2022;club
+280;Farul Constanta;2022;club
+281;FC Prishtina;2022;club
+282;Partizani Tirana;2022;club
+283;Stjarnan FC;2022;club
+284;Pyunik Yerevan;2022;club
+285;RFS Riga;2022;club
+286;Breidablik;2022;club
+287;HB Torshavn;2022;club
+288;Kesla FK;2022;club
+289;Gzira United;2022;club
+290;La Fiorita;2022;club
+291;Skënderbeu Korçë;2022;club
+292;Arda Kardzhali;2022;club
+293;Slavia Sofia;2022;club
+294;Levski Sofia;2022;club
+295;Botev Plovdiv;2022;club
+296;Dunav Ruse;2022;club
+297;Milsami Orhei;2022;club
+298;Coleraine;2022;club
+299;NSI Runavik;2022;club
+300;Torpedo Kutaisi;2022;club
+301;Újpest TE;2022;club
+302;Kauno Zalgiris;2022;club
+303;Siroki Brijeg;2022;club
+304;Piast Gliwice;2022;club
+305;Gabala FK;2022;club
+306;Cork City;2022;club
+307;Sepsi OSK;2022;club
+308;FC Botosani;2022;club
+309;Astra Giurgiu;2022;club
+310;Dinamo Bucuresti;2022;club
+311;Sumgayit FK;2022;club
+312;Sabail FK;2022;club
+313;Zira FK;2022;club
+314;Puskás Akadémia;2022;club
+315;DVSC Debrecen;2022;club
+316;Vasas Budapest;2022;club
+317;Dinamo Batumi;2022;club
+318;Bala Town;2022;club
+319;Tre Penne;2022;club
+320;St Joseph's FC;2022;club
+321;Crusaders Belfast;2022;club
+322;Chikhura Sachkhere;2022;club
+323;Raków Czestochowa;2022;club
+324;Slask Wroclaw;2022;club
+325;Pogon Szczecin;2022;club
+326;Cracovia Kraków;2022;club
+327;Lechia Gdansk;2022;club
+328;Jagiellonia Bialystok;2022;club
+329;Górnik Zabrze;2022;club
+330;Arka Gdynia;2022;club
+331;Shakhtyor Karaganda;2022;club
+332;Kaysar Kyzylorda;2022;club
+333;Ordabasy Shymkent;2022;club
+334;Irtysh Pavlodar;2022;club
+335;MFK Ruzomberok;2022;club
+336;AS Trencín;2022;club
+337;Bohemians Dublin;2022;club
+338;Borac Banja Luka;2022;club
+339;Inter Club d'Escaldes;2022;club
+340;Inter Turku;2022;club
+341;Urartu FC;2022;club
+342;NK Celje;2022;club
+343;KR Reykjavik;2022;club
+344;Tre Fiori;2022;club
+345;Saburtalo Tbilisi;2022;club
+346;Zeljeznicar Sarajevo;2022;club
+347;Spartaks Jurmala;2022;club
+348;Rudar Velenje;2022;club
+349;Vardar Skopje;2022;club
+350;Nova Gorica;2022;club
+351;KF Tirana;2022;club
+352;Balzan FC;2022;club
+353;Honka Espoo;2022;club
+354;Torpedo Zhodino;2022;club
+355;Sfântul Gheorghe;2022;club
+356;Sileks Kratovo;2022;club
+357;UE Engordany;2022;club
+358;OFK Titograd;2022;club
+359;FC Vitebsk;2022;club
+360;Víkingur;2022;club
+361;Folgore;2022;club
+362;Sant Julià;2022;club
+363;Floriana;2022;club
+364;Zeta Golubovci;2022;club
+365;Derry City;2022;club
+366;Dinamo-Auto Tiraspol;2022;club
+367;Speranta Nisporeni;2022;club
+368;Zaria Balti;2022;club
+369;Dacia Chisinau;2022;club
+370;Velez Mostar;2022;club
+371;Larne FC;2022;club
+372;Birkirkara;2022;club
+373;FK Panevezys;2022;club
+374;Valmieras FK;2022;club
+375;FC Noah;2022;club
+376;Glentoran;2022;club
+377;Paide Linnameeskond;2022;club
+378;Racing Union Luxembourg;2022;club
+379;Lokomotivi Tbilisi;2022;club
+380;Ilves Tampere;2022;club
+381;Cliftonville;2022;club
+382;Trans Narva;2022;club
+383;Samtredia;2022;club
+384;Stumbras Kaunas;2022;club
+385;Atlantas Klaipeda;2022;club
+386;Radnik Bijeljina;2022;club
+387;RoPS Rovaniemi;2022;club
+388;FC Lahti;2022;club
+389;IFK Mariehamn;2022;club
+390;VPS Vaasa;2022;club
+391;SJK Seinäjoki;2022;club
+392;Swift Hesperange;2022;club
+393;Differdange 03;2022;club
+394;Union Titus Pétange;2022;club
+395;Jeunesse d'Esch;2022;club
+396;FK Jelgava;2022;club
+397;KF Llapi;2022;club
+398;SC Gjilani;2022;club
+399;Feronikeli;2022;club
+400;Trepça'89;2022;club
+401;Ararat Yerevan;2022;club
+402;Sligo Rovers;2022;club
+403;Shirak Gyumri;2022;club
+404;St. Patrick's Athletic;2022;club
+405;Gandzasar Kapan;2022;club
+406;Ballymena United;2022;club
+407;Glenavon;2022;club
+408;Vllaznia Shkodër;2022;club
+409;Luftëtari Gjirokastër;2022;club
+410;Renova Dzepciste;2022;club
+411;Rabotnicki Skopje;2022;club
+412;FCI Tallinn;2022;club
+413;Dila Gori;2022;club
+414;FC Struga;2022;club
+415;Gagra Tbilisi;2022;club
+416;Mosta FC;2022;club
+417;Sirens FC;2022;club
+418;Akademija Pandev;2022;club
+419;Makedonija GjP;2022;club
+420;Pelister Bitola;2022;club
+421;Newtown;2022;club
+422;Barry Town;2022;club
+423;Cardiff MU;2022;club
+424;Cefn Druids;2022;club
+425;Bangor City;2022;club
+426;Mons Calpe;2022;club
+427;Vikingur Reykjavik;2022;club
+428;IBV Vestmannaeyjar;2022;club
+429;Decic Tuzi;2022;club
+430;FK Podgorica;2022;club
+431;Iskra Danilovgrad;2022;club
+432;Rudar Pljevlja;2022;club
+433;UE Santa Coloma;2022;club
+1;Manchester City;2023;club
+2;Bayern München;2023;club
+3;Chelsea;2023;club
+4;Liverpool;2023;club
+5;Real Madrid;2023;club
+6;Paris Saint-Germain;2023;club
+7;Manchester United;2023;club
+8;Juventus;2023;club
+9;FC Barcelona;2023;club
+10;AS Roma;2023;club
+11;Internazionale;2023;club
+12;Sevilla;2023;club
+13;Ajax;2023;club
+14;Borussia Dortmund;2023;club
+15;Atlético Madrid;2023;club
+16;RB Leipzig;2023;club
+17;Benfica;2023;club
+18;Villarreal;2023;club
+19;Napoli;2023;club
+20;FC Porto;2023;club
+21;Tottenham Hotspur;2023;club
+22;Eintracht Frankfurt;2023;club
+23;Arsenal;2023;club
+24;Bayer Leverkusen;2023;club
+25;Shakhtar Donetsk;2023;club
+26;Olympique Lyon;2023;club
+27;FC Salzburg;2023;club
+28;Atalanta;2023;club
+29;Dinamo Zagreb;2023;club
+30;Club Brugge;2023;club
+31;Glasgow Rangers;2023;club
+32;FC Basel;2023;club
+33;Sporting CP Lisbon;2023;club
+34;Slavia Praha;2023;club
+35;Feyenoord;2023;club
+36;West Ham United;2023;club
+37;AC Milan;2023;club
+38;AZ Alkmaar;2023;club
+39;Stade Rennais;2023;club
+40;Sporting Braga;2023;club
+41;PSV Eindhoven;2023;club
+42;Lazio;2023;club
+43;Red Star Belgrade;2023;club
+44;FC København;2023;club
+45;Valencia;2023;club
+46;Olympiakos Piraeus;2023;club
+47;AA Gent;2023;club
+48;Real Betis;2023;club
+49;LASK;2023;club
+50;Dynamo Kyiv;2023;club
+51;Young Boys;2023;club
+52;Real Sociedad;2023;club
+53;Olympique Marseille;2023;club
+54;Zenit St. Petersburg;2023;club
+55;Galatasaray;2023;club
+56;Istanbul Basaksehir;2023;club
+57;Celtic;2023;club
+58;Fenerbahçe;2023;club
+59;Lille OSC;2023;club
+60;AS Monaco;2023;club
+61;CFR Cluj;2023;club
+62;Ferencváros;2023;club
+63;FC Midtjylland;2023;club
+64;Partizan Belgrade;2023;club
+65;Malmö FF;2023;club
+66;Qarabag FK;2023;club
+67;PAOK Thessaloniki;2023;club
+68;FK Krasnodar;2023;club
+69;Slovan Bratislava;2023;club
+70;Molde FK;2023;club
+71;Maccabi Tel-Aviv;2023;club
+72;Leicester City;2023;club
+73;VfL Wolfsburg;2023;club
+74;Viktoria Plzen;2023;club
+75;Lokomotiv Moscow;2023;club
+76;Wolverhampton Wanderers;2023;club
+77;Burnley FC;2023;club
+78;Ludogorets Razgrad;2023;club
+79;Borussia Mönchengladbach;2023;club
+80;Fiorentina;2023;club
+81;Bodø/Glimt;2023;club
+82;Sheriff Tiraspol;2023;club
+83;Union Saint-Gilloise;2023;club
+84;Lech Poznan;2023;club
+85;1899 Hoffenheim;2023;club
+86;Granada CF;2023;club
+87;Getafe;2023;club
+88;Espanyol;2023;club
+89;Rapid Wien;2023;club
+90;Spartak Moscow;2023;club
+91;Racing Genk;2023;club
+92;Anderlecht;2023;club
+93;OGC Nice;2023;club
+94;Union Berlin;2023;club
+95;Hapoel Beer-Sheva;2023;club
+96;Royal Antwerp;2023;club
+97;Schalke 04;2023;club
+98;Djurgårdens IF;2023;club
+99;Sivasspor;2023;club
+100;SC Freiburg;2023;club
+101;1.FC Köln;2023;club
+102;Torino;2023;club
+103;Apollon Limassol;2023;club
+104;Zorya Luhansk;2023;club
+105;Standard Liège;2023;club
+106;CSKA Moscow;2023;club
+107;BATE Borisov;2023;club
+108;APOEL Nicosia;2023;club
+109;Sparta Praha;2023;club
+110;FK Astana;2023;club
+111;Besiktas;2023;club
+112;Wolfsberger AC;2023;club
+113;Maccabi Haifa;2023;club
+114;CSKA Sofia;2023;club
+115;Sturm Graz;2023;club
+116;FC Fehérvár;2023;club
+117;FC Nantes;2023;club
+118;Stade de Reims;2023;club
+119;AS Saint-Étienne;2023;club
+120;RC Strasbourg;2023;club
+121;Girondins Bordeaux;2023;club
+122;FK Jablonec;2023;club
+123;FC Twente Enschede;2023;club
+124;Vitesse Arnhem;2023;club
+125;Willem II Tilburg;2023;club
+126;FC Utrecht;2023;club
+127;Trabzonspor;2023;club
+128;NK Rijeka;2023;club
+129;Gil Vicente;2023;club
+130;Vitória Guimarães;2023;club
+131;CD Santa Clara;2023;club
+132;Paços de Ferreira;2023;club
+133;Rio Ave;2023;club
+134;Zalgiris Vilnius;2023;club
+135;HJK Helsinki;2023;club
+136;FCSB;2023;club
+137;Legia Warsaw;2023;club
+138;Rosenborg BK;2023;club
+139;AEK Athens;2023;club
+140;Spartak Trnava;2023;club
+141;Flora Tallinn;2023;club
+142;AEK Larnaca;2023;club
+143;Omonia Nicosia;2023;club
+144;FC Zürich;2023;club
+145;F91 Dudelange;2023;club
+146;Riga FC;2023;club
+147;Suduva Marijampole;2023;club
+148;NK Maribor;2023;club
+149;Brøndby IF;2023;club
+150;KuPS Kuopio;2023;club
+151;Shkendija Tetovo;2023;club
+152;Shamrock Rovers;2023;club
+153;Hajduk Split;2023;club
+154;Universitatea Craiova;2023;club
+155;Neftchi Baku;2023;club
+156;Kairat Almaty;2023;club
+157;The New Saints;2023;club
+158;Olimpija Ljubljana;2023;club
+159;Linfield Belfast;2023;club
+160;FC Vaduz;2023;club
+161;Zrinjski Mostar;2023;club
+162;DAC Dunajska Streda;2023;club
+163;Lincoln Red Imps;2023;club
+164;Dundalk;2023;club
+165;Charleroi;2023;club
+166;SC Dnipro-1;2023;club
+167;Pyunik Yerevan;2023;club
+168;Shakhtior Saligorsk;2023;club
+169;KI Klaksvik;2023;club
+170;NK Osijek;2023;club
+171;Alashkert FC;2023;club
+172;Anorthosis Famagusta;2023;club
+173;Aberdeen;2023;club
+174;KF Laçi;2023;club
+175;Buducnost Podgorica;2023;club
+176;Sutjeska Niksic;2023;club
+177;CS Fola Esch;2023;club
+178;Dinamo Tbilisi;2023;club
+179;Hearts FC;2023;club
+180;Dundee United;2023;club
+181;Motherwell;2023;club
+182;St. Johnstone;2023;club
+183;Hibernian;2023;club
+184;Kilmarnock;2023;club
+185;FK Shkupi;2023;club
+186;Aris Thessaloniki;2023;club
+187;Mura Murska Sobota;2023;club
+188;Randers FC;2023;club
+189;FK Sarajevo;2023;club
+190;Austria Wien;2023;club
+191;TSV Hartberg;2023;club
+192;Admira Wacker;2023;club
+193;RFS Riga;2023;club
+194;AIK Stockholm;2023;club
+195;Hibernians FC;2023;club
+196;Tobol Kustanai;2023;club
+197;Petrocub Hîncesti;2023;club
+198;B36 Torshavn;2023;club
+199;FC Drita;2023;club
+200;Ararat-Armenia;2023;club
+201;Cukaricki Belgrade;2023;club
+202;Radnicki Nis;2023;club
+203;Vojvodina Novi Sad;2023;club
+204;TSC Backa Topola;2023;club
+205;Spartak Subotica;2023;club
+206;Konyaspor;2023;club
+207;Alanyaspor;2023;club
+208;Yeni Malatyaspor;2023;club
+209;Akhisarspor;2023;club
+210;FC Lugano;2023;club
+211;FC Luzern;2023;club
+212;Servette FC Genève;2023;club
+213;FC Sankt Gallen;2023;club
+214;FC Thun;2023;club
+215;Breidablik;2023;club
+216;Gzira United;2023;club
+217;Levadia Tallinn;2023;club
+218;Vorskla Poltava;2023;club
+219;Dynamo Brest;2023;club
+220;Kolos Kovalivka;2023;club
+221;Desna Chernihiv;2023;club
+222;FC Oleksandriya;2023;club
+223;FC Mariupol;2023;club
+224;1.FC Slovácko;2023;club
+225;Slovan Liberec;2023;club
+226;Mladá Boleslav;2023;club
+227;Sigma Olomouc;2023;club
+228;Viking Stavanger;2023;club
+229;Lillestrøm SK;2023;club
+230;Vålerengens IF;2023;club
+231;FK Haugesund;2023;club
+232;SK Brann Bergen;2023;club
+233;Sarpsborg 08;2023;club
+234;Silkeborg IF;2023;club
+235;Viborg FF;2023;club
+236;AGF Aarhus;2023;club
+237;SønderjyskE;2023;club
+238;Esbjerg fB;2023;club
+239;FC Nordsjælland;2023;club
+240;FK Liepaja;2023;club
+241;Dinamo Minsk;2023;club
+242;Lokomotiv Plovdiv;2023;club
+243;Connah's Quay;2023;club
+244;FC Sochi;2023;club
+245;Rubin Kazan;2023;club
+246;FK Rostov;2023;club
+247;Dinamo Moscow;2023;club
+248;Arsenal Tula;2023;club
+249;FC Ufa;2023;club
+250;Lokomotiva Zagreb;2023;club
+251;Panathinaikos;2023;club
+252;OFI Heraklion;2023;club
+253;Atromitos FC;2023;club
+254;Asteras Tripolis;2023;club
+255;Raków Czestochowa;2023;club
+256;Milsami Orhei;2023;club
+257;La Fiorita;2023;club
+258;Maccabi Netanya;2023;club
+259;HB Torshavn;2023;club
+260;Partizani Tirana;2023;club
+261;Europa FC;2023;club
+262;NK Domzale;2023;club
+263;FC Santa Coloma;2023;club
+264;Valur Reykjavik;2023;club
+265;MS Ashdod;2023;club
+266;FK Ventspils;2023;club
+267;Progrès Niederkorn;2023;club
+268;Beitar Jerusalem;2023;club
+269;Bnei Yehuda;2023;club
+270;Hapoel Haifa;2023;club
+271;Aris Limassol;2023;club
+272;AEL Limassol;2023;club
+273;IF Elfsborg;2023;club
+274;Hammarby IF;2023;club
+275;BK Häcken;2023;club
+276;IFK Göteborg;2023;club
+277;IFK Norrköping;2023;club
+278;Levski Sofia;2023;club
+279;Dinamo Batumi;2023;club
+280;Inter Club d'Escaldes;2023;club
+281;St Joseph's FC;2023;club
+282;Tre Fiori;2023;club
+283;Saburtalo Tbilisi;2023;club
+284;Crusaders Belfast;2023;club
+285;Kauno Zalgiris;2023;club
+286;Teuta Durrës;2023;club
+287;Honvéd Budapest;2023;club
+288;FK Kukësi;2023;club
+289;Valletta FC;2023;club
+290;Pogon Szczecin;2023;club
+291;Lechia Gdansk;2023;club
+292;Slask Wroclaw;2023;club
+293;Piast Gliwice;2023;club
+294;Cracovia Kraków;2023;club
+295;Jagiellonia Bialystok;2023;club
+296;Górnik Zabrze;2023;club
+297;Kisvárda FC;2023;club
+298;Puskás Akadémia;2023;club
+299;Újpest TE;2023;club
+300;DVSC Debrecen;2023;club
+301;Sepsi OSK;2023;club
+302;FC Botosani;2023;club
+303;Farul Constanta;2023;club
+304;Paide Linnameeskond;2023;club
+305;KF Tirana;2023;club
+306;Gabala FK;2023;club
+307;Botev Plovdiv;2023;club
+308;Borac Banja Luka;2023;club
+309;Bala Town;2023;club
+310;Inter Turku;2023;club
+311;Tre Penne;2023;club
+312;FC Prishtina;2023;club
+313;FH Hafnarfjardar;2023;club
+314;Arda Kardzhali;2023;club
+315;Stjarnan FC;2023;club
+316;FK Riteriai;2023;club
+317;Kalju Nomme;2023;club
+318;Slavia Sofia;2023;club
+319;MFK Ruzomberok;2023;club
+320;MSK Zilina;2023;club
+321;AS Trencín;2023;club
+322;Velez Mostar;2023;club
+323;Valmieras FK;2023;club
+324;Racing Union Luxembourg;2023;club
+325;Sfântul Gheorghe;2023;club
+326;KR Reykjavik;2023;club
+327;Kesla FK;2023;club
+328;Coleraine;2023;club
+329;NSI Runavik;2023;club
+330;Torpedo Kutaisi;2023;club
+331;Zira FK;2023;club
+332;Sumgayit FK;2023;club
+333;Sabail FK;2023;club
+334;FC Ballkani;2023;club
+335;Sligo Rovers;2023;club
+336;Vikingur Reykjavik;2023;club
+337;St. Patrick's Athletic;2023;club
+338;Vllaznia Shkodër;2023;club
+339;Víkingur;2023;club
+340;Larne FC;2023;club
+341;Floriana;2023;club
+342;Derry City;2023;club
+343;Cliftonville;2023;club
+344;Bohemians Dublin;2023;club
+345;Urartu FC;2023;club
+346;Siroki Brijeg;2023;club
+347;Chikhura Sachkhere;2023;club
+348;Cork City;2023;club
+349;FK Kyzylzhar;2023;club
+350;Shakhtyor Karaganda;2023;club
+351;Kaysar Kyzylorda;2023;club
+352;Ordabasy Shymkent;2023;club
+353;Irtysh Pavlodar;2023;club
+354;Hamrun Spartans;2023;club
+355;Newtown;2023;club
+356;Makedonija GjP;2023;club
+357;NK Koper;2023;club
+358;FK Panevezys;2023;club
+359;Ararat Yerevan;2023;club
+360;Honka Espoo;2023;club
+361;Sileks Kratovo;2023;club
+362;NK Celje;2023;club
+363;Zeljeznicar Sarajevo;2023;club
+364;UE Engordany;2023;club
+365;Balzan FC;2023;club
+366;Rudar Velenje;2023;club
+367;Dinamo-Auto Tiraspol;2023;club
+368;Speranta Nisporeni;2023;club
+369;Zaria Balti;2023;club
+370;KF Llapi;2023;club
+371;SC Gjilani;2023;club
+372;Feronikeli;2023;club
+373;Spartaks Jurmala;2023;club
+374;SJK Seinäjoki;2023;club
+375;Ilves Tampere;2023;club
+376;RoPS Rovaniemi;2023;club
+377;FC Lahti;2023;club
+378;Dila Gori;2023;club
+379;Decic Tuzi;2023;club
+380;Differdange 03;2023;club
+381;Iskra Danilovgrad;2023;club
+382;Akademija Pandev;2023;club
+383;Birkirkara;2023;club
+384;Folgore;2023;club
+385;FC Noah;2023;club
+386;Glentoran;2023;club
+387;Sant Julià;2023;club
+388;Lokomotivi Tbilisi;2023;club
+389;Zeta Golubovci;2023;club
+390;Trans Narva;2023;club
+391;OFK Titograd;2023;club
+392;Stumbras Kaunas;2023;club
+393;FC Gomel;2023;club
+394;Torpedo Zhodino;2023;club
+395;Shirak Gyumri;2023;club
+396;FC Vitebsk;2023;club
+397;Gandzasar Kapan;2023;club
+398;Tuzla City;2023;club
+399;Radnik Bijeljina;2023;club
+400;Swift Hesperange;2023;club
+401;Union Titus Pétange;2023;club
+402;Jeunesse d'Esch;2023;club
+403;Ballymena United;2023;club
+404;Glenavon;2023;club
+405;Mosta FC;2023;club
+406;Sirens FC;2023;club
+407;Gagra Tbilisi;2023;club
+408;Samtredia;2023;club
+409;Renova Dzepciste;2023;club
+410;IBV Vestmannaeyjar;2023;club
+411;Luftëtari Gjirokastër;2023;club
+412;Barry Town;2023;club
+413;Cardiff MU;2023;club
+414;Cefn Druids;2023;club
+415;FCB Magpies;2023;club
+416;Mons Calpe;2023;club
+417;FC Struga;2023;club
+418;Rabotnicki Skopje;2023;club
+419;Vardar Skopje;2023;club
+420;Atlètic Club d'Escaldes;2023;club
+421;UE Santa Coloma;2023;club
+422;FK Podgorica;2023;club
+423;Rudar Pljevlja;2023;club
+1;Manchester City;2024;club
+2;Bayern München;2024;club
+3;Real Madrid;2024;club
+4;Paris Saint-Germain;2024;club
+5;Liverpool;2024;club
+6;AS Roma;2024;club
+7;Internazionale;2024;club
+8;Borussia Dortmund;2024;club
+9;RB Leipzig;2024;club
+10;Chelsea;2024;club
+11;Manchester United;2024;club
+12;FC Barcelona;2024;club
+13;Bayer Leverkusen;2024;club
+14;Atlético Madrid;2024;club
+15;Sevilla;2024;club
+16;Villarreal;2024;club
+17;Atalanta;2024;club
+18;Napoli;2024;club
+19;Juventus;2024;club
+20;Benfica;2024;club
+21;FC Porto;2024;club
+22;Arsenal;2024;club
+23;West Ham United;2024;club
+24;Ajax;2024;club
+25;Club Brugge;2024;club
+26;Glasgow Rangers;2024;club
+27;Shakhtar Donetsk;2024;club
+28;Eintracht Frankfurt;2024;club
+29;AC Milan;2024;club
+30;Feyenoord;2024;club
+31; Sporting CP Lisbon;2024;club
+32;Lazio;2024;club
+33;PSV Eindhoven;2024;club
+34;Tottenham Hotspur;2024;club
+35;Slavia Praha;2024;club
+36;FC Basel;2024;club
+37;FC København;2024;club
+38;Real Sociedad;2024;club
+39;Dinamo Zagreb;2024;club
+40;FC Salzburg;2024;club
+41;AZ Alkmaar;2024;club
+42;Sporting Braga;2024;club
+43;Olympique Marseille;2024;club
+44;Olympiakos Piraeus;2024;club
+45;Lille OSC;2024;club
+46;AA Gent;2024;club
+47;Olympique Lyon;2024;club
+48;Stade Rennais;2024;club
+49;Fiorentina;2024;club
+50;Red Star Belgrade;2024;club
+51;PAOK Thessaloniki;2024;club
+52;LASK;2024;club
+53;Fenerbahçe;2024;club
+54;Maccabi Tel-Aviv;2024;club
+55;Ferencváros;2024;club
+56;Young Boys;2024;club
+57;Qarabag FK;2024;club
+58;Real Betis;2024;club
+59;Celtic;2024;club
+60;Galatasaray;2024;club
+61;Slovan Bratislava;2024;club
+62;Istanbul Basaksehir;2024;club
+63;Molde FK;2024;club
+64;Viktoria Plzen;2024;club
+65;SC Freiburg;2024;club
+66;Bodø/Glimt;2024;club
+67;Union Saint-Gilloise;2024;club
+68;Dynamo Kyiv;2024;club
+69;CFR Cluj;2024;club
+70;Ludogorets Razgrad;2024;club
+71;FC Midtjylland;2024;club
+72;Partizan Belgrade;2024;club
+73;AS Monaco;2024;club
+74;Union Berlin;2024;club
+75;Royal Antwerp;2024;club
+76;Leicester City;2024;club
+77;Sparta Praha;2024;club
+78;VfL Wolfsburg;2024;club
+79;Zenit St. Petersburg;2024;club
+80;Borussia Mönchengladbach;2024;club
+81;Aston Villa;2024;club
+82;Brighton & Hove Albion;2024;club
+83;Newcastle United;2024;club
+84;Wolverhampton Wanderers;2024;club
+85;Sheriff Tiraspol;2024;club
+86;Lech Poznan;2024;club
+87;Zorya Luhansk;2024;club
+88;Malmö FF;2024;club
+89;Torino;2024;club
+90;Legia Warsaw;2024;club
+91;Maccabi Haifa;2024;club
+92;Osasuna;2024;club
+93;Granada CF;2024;club
+94;Valencia;2024;club
+95;Getafe;2024;club
+96;Espanyol;2024;club
+97;1.FC Köln;2024;club
+98;1899 Hoffenheim;2024;club
+99;Hapoel Beer-Sheva;2024;club
+100;OGC Nice;2024;club
+101;Djurgårdens IF;2024;club
+102;Sivasspor;2024;club
+103;Racing Genk;2024;club
+104;Lokomotiv Moscow;2024;club
+105;Sturm Graz;2024;club
+106;APOEL Nicosia;2024;club
+107;Anderlecht;2024;club
+108;Spartak Moscow;2024;club
+109;Rapid Wien;2024;club
+110;FK Krasnodar;2024;club
+111;Wolfsberger AC;2024;club
+112;RC Lens;2024;club
+113;Toulouse FC;2024;club
+114;FC Nantes;2024;club
+115;Stade de Reims;2024;club
+116;AS Saint-Étienne;2024;club
+117;RC Strasbourg;2024;club
+118;CSKA Sofia;2024;club
+119;FC Twente Enschede;2024;club
+120;Vitesse Arnhem;2024;club
+121;Willem II Tilburg;2024;club
+122;FC Utrecht;2024;club
+123;Besiktas;2024;club
+124;NK Rijeka;2024;club
+125;Omonia Nicosia;2024;club
+126;Aberdeen;2024;club
+127;Zalgiris Vilnius;2024;club
+128;HJK Helsinki;2024;club
+129;Trabzonspor;2024;club
+130;FC Arouca;2024;club
+131;Vitória Guimarães;2024;club
+132;Gil Vicente;2024;club
+133;CD Santa Clara;2024;club
+134;Paços de Ferreira;2024;club
+135;Rio Ave;2024;club
+136;FK Astana;2024;club
+137;Riga FC;2024;club
+138;Flora Tallinn;2024;club
+139;Apollon Limassol;2024;club
+140;Olimpija Ljubljana;2024;club
+141;SC Dnipro-1;2024;club
+142;FCSB;2024;club
+143;KI Klaksvik;2024;club
+144;AEK Athens;2024;club
+145;Neftchi Baku;2024;club
+146;Rosenborg BK;2024;club
+147;Linfield Belfast;2024;club
+148;KuPS Kuopio;2024;club
+149;Standard Liège;2024;club
+150;Charleroi;2024;club
+151;Zrinjski Mostar;2024;club
+152;BATE Borisov;2024;club
+153;NK Maribor;2024;club
+154;Shamrock Rovers;2024;club
+155;Servette FC Genève;2024;club
+156;Hajduk Split;2024;club
+157;Aris Thessaloniki;2024;club
+158;Lincoln Red Imps;2024;club
+159;Breidablik;2024;club
+160;NK Osijek;2024;club
+161;F91 Dudelange;2024;club
+162;The New Saints;2024;club
+163;Dundalk;2024;club
+164;Raków Czestochowa;2024;club
+165;FC Lugano;2024;club
+166;Cukaricki Belgrade;2024;club
+167;Spartak Trnava;2024;club
+168;AEK Larnaca;2024;club
+169;Pyunik Yerevan;2024;club
+170;Austria Wien;2024;club
+171;RFS Riga;2024;club
+172;Buducnost Podgorica;2024;club
+173;Ararat-Armenia;2024;club
+174;Dinamo Tbilisi;2024;club
+175;FC Vaduz;2024;club
+176;DAC Dunajska Streda;2024;club
+177;Shkendija Tetovo;2024;club
+178;FK Jablonec;2024;club
+179;Adana Demirspor;2024;club
+180;Konyaspor;2024;club
+181;Alanyaspor;2024;club
+182;Yeni Malatyaspor;2024;club
+183;Tobol Kustanai;2024;club
+184;FK Shkupi;2024;club
+185;Sutjeska Niksic;2024;club
+186;Alashkert FC;2024;club
+187;FC Fehérvár;2024;club
+188;Suduva Marijampole;2024;club
+189;Hearts FC;2024;club
+190;Hibernian;2024;club
+191;Bohemians Praha;2024;club
+192;1.FC Slovácko;2024;club
+193;Dundee United;2024;club
+194;Motherwell;2024;club
+195;St. Johnstone;2024;club
+196;Slovan Liberec;2024;club
+197;Mladá Boleslav;2024;club
+198;Kilmarnock;2024;club
+199;FC Nordsjælland;2024;club
+200;Gzira United;2024;club
+201;B36 Torshavn;2024;club
+202;Petrocub Hîncesti;2024;club
+203;Universitatea Craiova;2024;club
+204;Brøndby IF;2024;club
+205;Mura Murska Sobota;2024;club
+206;Kairat Almaty;2024;club
+207;Randers FC;2024;club
+208;Anorthosis Famagusta;2024;club
+209;CSKA Moscow;2024;club
+210;FC Luzern;2024;club
+211;FC Zürich;2024;club
+212;FC Sankt Gallen;2024;club
+213;FC Thun;2024;club
+214;TSV Hartberg;2024;club
+215;Partizani Tirana;2024;club
+216;FC Drita;2024;club
+217;FK Sarajevo;2024;club
+218;Hibernians FC;2024;club
+219;Shakhtior Saligorsk;2024;club
+220;SK Brann Bergen;2024;club
+221;Viking Stavanger;2024;club
+222;Lillestrøm SK;2024;club
+223;Vålerengens IF;2024;club
+224;FK Haugesund;2024;club
+225;Panathinaikos;2024;club
+226;OFI Heraklion;2024;club
+227;Atromitos FC;2024;club
+228;AGF Aarhus;2024;club
+229;Silkeborg IF;2024;club
+230;Viborg FF;2024;club
+231;SønderjyskE;2024;club
+232;Esbjerg fB;2024;club
+233;Beitar Jerusalem;2024;club
+234;Maccabi Netanya;2024;club
+235;MS Ashdod;2024;club
+236;Bnei Yehuda;2024;club
+237;FC Ballkani;2024;club
+238;BK Häcken;2024;club
+239;Sepsi OSK;2024;club
+240;Levski Sofia;2024;club
+241;Inter Club d'Escaldes;2024;club
+242;Kauno Zalgiris;2024;club
+243;Levadia Tallinn;2024;club
+244;HB Torshavn;2024;club
+245;KF Laçi;2024;club
+246;CS Fola Esch;2024;club
+247;Vorskla Poltava;2024;club
+248;Kolos Kovalivka;2024;club
+249;Desna Chernihiv;2024;club
+250;FC Oleksandriya;2024;club
+251;FC Mariupol;2024;club
+252;TSC Backa Topola;2024;club
+253;Vojvodina Novi Sad;2024;club
+254;Radnicki Nis;2024;club
+255;Valmieras FK;2024;club
+256;FC Santa Coloma;2024;club
+257;KF Tirana;2024;club
+258;Borac Banja Luka;2024;club
+259;Tre Penne;2024;club
+260;Hammarby IF;2024;club
+261;Dinamo Batumi;2024;club
+262;Europa FC;2024;club
+263;Connah's Quay;2024;club
+264;Lokomotiv Plovdiv;2024;club
+265;Lokomotiva Zagreb;2024;club
+266;Pogon Szczecin;2024;club
+267;Lechia Gdansk;2024;club
+268;Slask Wroclaw;2024;club
+269;Piast Gliwice;2024;club
+270;Cracovia Kraków;2024;club
+271;MSK Zilina;2024;club
+272;Paide Linnameeskond;2024;club
+273;Milsami Orhei;2024;club
+274;AIK Stockholm;2024;club
+275;FC Sochi;2024;club
+276;Rubin Kazan;2024;club
+277;FK Rostov;2024;club
+278;Dinamo Moscow;2024;club
+279;Arsenal Tula;2024;club
+280;Aris Limassol;2024;club
+281;NK Celje;2024;club
+282;Hamrun Spartans;2024;club
+283;Gabala FK;2024;club
+284;Crusaders Belfast;2024;club
+285;Larne FC;2024;club
+286;Progrès Niederkorn;2024;club
+287;La Fiorita;2024;club
+288;Dinamo Minsk;2024;club
+289;NK Domzale;2024;club
+290;FK Liepaja;2024;club
+291;Saburtalo Tbilisi;2024;club
+292;Teuta Durrës;2024;club
+293;AEL Limassol;2024;club
+294;DVSC Debrecen;2024;club
+295;Kecskeméti TE;2024;club
+296;Zalaegerszegi TE;2024;club
+297;Kisvárda FC;2024;club
+298;Puskás Akadémia;2024;club
+299;Újpest TE;2024;club
+300;Honvéd Budapest;2024;club
+301;Kalmar FF;2024;club
+302;IF Elfsborg;2024;club
+303;IFK Göteborg;2024;club
+304;IFK Norrköping;2024;club
+305;Farul Constanta;2024;club
+306;FC Botosani;2024;club
+307;CSKA 1948 Sofia;2024;club
+308;Botev Plovdiv;2024;club
+309;Arda Kardzhali;2024;club
+310;Slavia Sofia;2024;club
+311;Sabah FK;2024;club
+312;Zira FK;2024;club
+313;Kesla FK;2024;club
+314;Sumgayit FK;2024;club
+315;Sabail FK;2024;club
+316;Dila Gori;2024;club
+317;Derry City;2024;club
+318;FK Panevezys;2024;club
+319;Ordabasy Shymkent;2024;club
+320;Vikingur Reykjavik;2024;club
+321;St. Patrick's Athletic;2024;club
+322;Vllaznia Shkodër;2024;club
+323;St Joseph's FC;2024;club
+324;Inter Turku;2024;club
+325;Dynamo Brest;2024;club
+326;MFK Ruzomberok;2024;club
+327;FC Struga;2024;club
+328;Differdange 03;2024;club
+329;Urartu FC;2024;club
+330;Makedonija GjP;2024;club
+331;Honka Espoo;2024;club
+332;Velez Mostar;2024;club
+333;Tre Fiori;2024;club
+334;Sfântul Gheorghe;2024;club
+335;Bala Town;2024;club
+336;KR Reykjavik;2024;club
+337;FK Ventspils;2024;club
+338;Swift Hesperange;2024;club
+339;Torpedo Zhodino;2024;club
+340;SC Gjilani;2024;club
+341;Glentoran;2024;club
+342;Sligo Rovers;2024;club
+343;Floriana;2024;club
+344;Bohemians Dublin;2024;club
+345;FC Prishtina;2024;club
+346;Valur Reykjavik;2024;club
+347;Valletta FC;2024;club
+348;Kalju Nomme;2024;club
+349;NK Koper;2024;club
+350;Zimbru Chisinau;2024;club
+351;Dinamo-Auto Tiraspol;2024;club
+352;Speranta Nisporeni;2024;club
+353;Atlètic Club d'Escaldes;2024;club
+354;Zeljeznicar Sarajevo;2024;club
+355;Balzan FC;2024;club
+356;Torpedo Kutaisi;2024;club
+357;Víkingur;2024;club
+358;Birkirkara;2024;club
+359;Racing Union Luxembourg;2024;club
+360;Newtown;2024;club
+361;Ararat Yerevan;2024;club
+362;Shakhtyor Karaganda;2024;club
+363;FH Hafnarfjardar;2024;club
+364;Coleraine;2024;club
+365;Sileks Kratovo;2024;club
+366;NSI Runavik;2024;club
+367;Stjarnan FC;2024;club
+368;FK Riteriai;2024;club
+369;FK Kukësi;2024;club
+370;KF Dukagjini;2024;club
+371;KF Llapi;2024;club
+372;Feronikeli;2024;club
+373;FK Aktobe;2024;club
+374;FK Kyzylzhar;2024;club
+375;Kaysar Kyzylorda;2024;club
+376;Haka Valkeakoski;2024;club
+377;SJK Seinäjoki;2024;club
+378;Ilves Tampere;2024;club
+379;RoPS Rovaniemi;2024;club
+380;Cork City;2024;club
+381;FK Auda;2024;club
+382;FC Noah;2024;club
+383;Shirak Gyumri;2024;club
+384;KA Akureyri;2024;club
+385;Neman Grodno;2024;club
+386;FCB Magpies;2024;club
+387;Trans Narva;2024;club
+388;Tuzla City;2024;club
+389;Decic Tuzi;2024;club
+390;Iskra Danilovgrad;2024;club
+391;Cliftonville;2024;club
+392;Akademija Pandev;2024;club
+393;Siroki Brijeg;2024;club
+394;Lokomotivi Tbilisi;2024;club
+395;Zeta Golubovci;2024;club
+396;Radnik Bijeljina;2024;club
+397;Ballymena United;2024;club
+398;Union Titus Pétange;2024;club
+399;Jeunesse d'Esch;2024;club
+400;FC Hegelmann;2024;club
+401;Mosta FC;2024;club
+402;Sirens FC;2024;club
+403;Gagra Tbilisi;2024;club
+404;Chikhura Sachkhere;2024;club
+405;Haverfordwest County;2024;club
+406;FC Gomel;2024;club
+407;Folgore;2024;club
+408;Sant Julià;2024;club
+409;Renova Dzepciste;2024;club
+410;UE Engordany;2024;club
+411;Egnatia Rrogozhinë;2024;club
+412;FC Vitebsk;2024;club
+413;UE Santa Coloma;2024;club
+414;Penybont;2024;club
+415;Barry Town;2024;club
+416;Cardiff MU;2024;club
+417;Arsenal Tivat;2024;club
+418;FK Podgorica;2024;club
+419;OFK Titograd;2024;club
+420;Cosmos;2024;club
+421;Mons Calpe;2024;club
+1;Real Madrid;2025;club
+2;Manchester City;2025;club
+3;Bayern München;2025;club
+4;Liverpool;2025;club
+5;Paris Saint-Germain;2025;club
+6;Internazionale;2025;club
+7;Chelsea;2025;club
+8;Borussia Dortmund;2025;club
+9;AS Roma;2025;club
+10;FC Barcelona;2025;club
+11;Manchester United;2025;club
+12;Arsenal;2025;club
+13;Bayer Leverkusen;2025;club
+14;Atlético Madrid;2025;club
+15;Benfica;2025;club
+16;Atalanta;2025;club
+17;Villarreal;2025;club
+18;FC Porto;2025;club
+19;AC Milan;2025;club
+20;RB Leipzig;2025;club
+21;Lazio;2025;club
+22;Juventus;2025;club
+23;Eintracht Frankfurt;2025;club
+24;Club Brugge;2025;club
+25;Glasgow Rangers;2025;club
+26;Feyenoord;2025;club
+27;Tottenham Hotspur;2025;club
+28;PSV Eindhoven;2025;club
+29;West Ham United;2025;club
+30;Ajax;2025;club
+31;Lille OSC;2025;club
+32;Real Sociedad;2025;club
+33;Fiorentina;2025;club
+34;Napoli;2025;club
+35; Sporting CP Lisbon;2025;club
+36;Sevilla;2025;club
+37;Olympiakos Piraeus;2025;club
+38;Dinamo Zagreb;2025;club
+39;AZ Alkmaar;2025;club
+40;Real Betis;2025;club
+41;Shakhtar Donetsk;2025;club
+42;Slavia Praha;2025;club
+43;Bodø/Glimt;2025;club
+44;FC Salzburg;2025;club
+45;Olympique Marseille;2025;club
+46;Aston Villa;2025;club
+47;Fenerbahçe;2025;club
+48;Sporting Braga;2025;club
+49;FC København;2025;club
+50;Red Star Belgrade;2025;club
+51;Olympique Lyon;2025;club
+52;PAOK Thessaloniki;2025;club
+53;AA Gent;2025;club
+54;AS Monaco;2025;club
+55;Stade Rennais;2025;club
+56;Viktoria Plzen;2025;club
+57;Ferencváros;2025;club
+58;Galatasaray;2025;club
+59;Celtic;2025;club
+60;Maccabi Tel-Aviv;2025;club
+61;Union Saint-Gilloise;2025;club
+62;Young Boys;2025;club
+63;Djurgårdens IF;2025;club
+64;Molde FK;2025;club
+65;Slovan Bratislava;2025;club
+66;FC Basel;2025;club
+67;FC Midtjylland;2025;club
+68;Rapid Wien;2025;club
+69;Qarabag FK;2025;club
+70;Legia Warsaw;2025;club
+71;Sparta Praha;2025;club
+72;Anderlecht;2025;club
+73;LASK;2025;club
+74;SC Freiburg;2025;club
+75;Athletic Bilbao;2025;club
+76;Ludogorets Razgrad;2025;club
+77;Dynamo Kyiv;2025;club
+78;Brighton & Hove Albion;2025;club
+79;Newcastle United;2025;club
+80;Leicester City;2025;club
+81;Sturm Graz;2025;club
+82;Istanbul Basaksehir;2025;club
+83;Union Berlin;2025;club
+84;FCSB;2025;club
+85;Partizan Belgrade;2025;club
+86;Royal Antwerp;2025;club
+87;OGC Nice;2025;club
+88;Sheriff Tiraspol;2025;club
+89;Bologna;2025;club
+90;FC Lugano;2025;club
+91;1899 Hoffenheim;2025;club
+92;CFR Cluj;2025;club
+93;Lech Poznan;2025;club
+94;Girona FC;2025;club
+95;Osasuna;2025;club
+96;Granada CF;2025;club
+97;Vitória Guimarães;2025;club
+98;Maccabi Haifa;2025;club
+99;Shamrock Rovers;2025;club
+100;Olimpija Ljubljana;2025;club
+101;Omonia Nicosia;2025;club
+102;VfB Stuttgart;2025;club
+103;1.FC Heidenheim;2025;club
+104;1.FC Köln;2025;club
+105;VfL Wolfsburg;2025;club
+106;Borussia Mönchengladbach;2025;club
+107;APOEL Nicosia;2025;club
+108;Stade Brestois;2025;club
+109;Hapoel Beer-Sheva;2025;club
+110;Sivasspor;2025;club
+111;Panathinaikos;2025;club
+112;Zorya Luhansk;2025;club
+113;Besiktas;2025;club
+114;RC Lens;2025;club
+115;Toulouse FC;2025;club
+116;FC Nantes;2025;club
+117;Stade de Reims;2025;club
+118;Malmö FF;2025;club
+119;Jagiellonia Bialystok;2025;club
+120;NK Celje;2025;club
+121;Borac Banja Luka;2025;club
+122;FC Twente Enschede;2025;club
+123;Go Ahead Eagles;2025;club
+124;Vitesse Arnhem;2025;club
+125;Willem II Tilburg;2025;club
+126;Zenit St. Petersburg;2025;club
+127;Cercle Brugge;2025;club
+128;HJK Helsinki;2025;club
+129;FC Arouca;2025;club
+130;Gil Vicente;2025;club
+131;CD Santa Clara;2025;club
+132;Paços de Ferreira;2025;club
+133;Rio Ave;2025;club
+134;FK Astana;2025;club
+135;NK Rijeka;2025;club
+136;SC Dnipro-1;2025;club
+137;Zalgiris Vilnius;2025;club
+138;Spartak Moscow;2025;club
+139;Hearts FC;2025;club
+140;Servette FC Genève;2025;club
+141;Flora Tallinn;2025;club
+142;Racing Genk;2025;club
+143;Standard Liège;2025;club
+144;Charleroi;2025;club
+145;Pafos FC;2025;club
+146;IF Elfsborg;2025;club
+147;RFS Riga;2025;club
+148;KI Klaksvik;2025;club
+149;Trabzonspor;2025;club
+150;Vikingur Reykjavik;2025;club
+151;CSKA Sofia;2025;club
+152;Zrinjski Mostar;2025;club
+153;Lincoln Red Imps;2025;club
+154;Hajduk Split;2025;club
+155;Riga FC;2025;club
+156;KuPS Kuopio;2025;club
+157;Lokomotiv Moscow;2025;club
+158;TSC Backa Topola;2025;club
+159;NK Maribor;2025;club
+160;AEK Athens;2025;club
+161;Aberdeen;2025;club
+162;Wolfsberger AC;2025;club
+163;The New Saints;2025;club
+164;FC Drita;2025;club
+165;NK Osijek;2025;club
+166;Breidablik;2025;club
+167;Mladá Boleslav;2025;club
+168;Baník Ostrava;2025;club
+169;Bohemians Praha;2025;club
+170;1.FC Slovácko;2025;club
+171;FK Jablonec;2025;club
+172;Slovan Liberec;2025;club
+173;Adana Demirspor;2025;club
+174;Konyaspor;2025;club
+175;Alanyaspor;2025;club
+176;Pyunik Yerevan;2025;club
+177;Petrocub Hîncesti;2025;club
+178;Spartak Trnava;2025;club
+179;Linfield Belfast;2025;club
+180;Apollon Limassol;2025;club
+181;FC Ballkani;2025;club
+182;FC Fehérvár;2025;club
+183;Tobol Kustanai;2025;club
+184;Buducnost Podgorica;2025;club
+185;DAC Dunajska Streda;2025;club
+186;Raków Czestochowa;2025;club
+187;Neftchi Baku;2025;club
+188;FK Krasnodar;2025;club
+189;SK Brann Bergen;2025;club
+190;Tromsø IL;2025;club
+191;Rosenborg BK;2025;club
+192;Viking Stavanger;2025;club
+193;Lillestrøm SK;2025;club
+194;Vålerengens IF;2025;club
+195;Aris Thessaloniki;2025;club
+196;OFI Heraklion;2025;club
+197;Ararat-Armenia;2025;club
+198;Vojvodina Novi Sad;2025;club
+199;AEK Larnaca;2025;club
+200;Austria Wien;2025;club
+201;Inter Club d'Escaldes;2025;club
+202;FC Vaduz;2025;club
+203;Shkendija Tetovo;2025;club
+204;TSV Hartberg;2025;club
+205;Kilmarnock;2025;club
+206;St. Mirren;2025;club
+207;Hibernian;2025;club
+208;Dundee United;2025;club
+209;Motherwell;2025;club
+210;St. Johnstone;2025;club
+211;BK Häcken;2025;club
+212;Larne FC;2025;club
+213;Wisla Kraków;2025;club
+214;Paide Linnameeskond;2025;club
+215;Brøndby IF;2025;club
+216;Slask Wroclaw;2025;club
+217;F91 Dudelange;2025;club
+218;Dinamo Batumi;2025;club
+219;B36 Torshavn;2025;club
+220;Dinamo Tbilisi;2025;club
+221;FC Nordsjælland;2025;club
+222;BATE Borisov;2025;club
+223;Pogon Szczecin;2025;club
+224;Lechia Gdansk;2025;club
+225;Randers FC;2025;club
+226;Anorthosis Famagusta;2025;club
+227;Piast Gliwice;2025;club
+228;Cracovia Kraków;2025;club
+229;Silkeborg IF;2025;club
+230;AGF Aarhus;2025;club
+231;Viborg FF;2025;club
+232;SønderjyskE;2025;club
+233;FC Sankt Gallen;2025;club
+234;FC Zürich;2025;club
+235;FC Luzern;2025;club
+236;FK Panevezys;2025;club
+237;Puskás Akadémia;2025;club
+238;Partizani Tirana;2025;club
+239;Levadia Tallinn;2025;club
+240;Universitatea Craiova;2025;club
+241;KF Tirana;2025;club
+242;Cukaricki Belgrade;2025;club
+243;FK Shkupi;2025;club
+244;Dundalk;2025;club
+245;Maccabi Petah-Tikva;2025;club
+246;Beitar Jerusalem;2025;club
+247;Maccabi Netanya;2025;club
+248;MS Ashdod;2025;club
+249;Dinamo Minsk;2025;club
+250;Hamrun Spartans;2025;club
+251;HB Torshavn;2025;club
+252;FK Sarajevo;2025;club
+253;Sepsi OSK;2025;club
+254;Alashkert FC;2025;club
+255;Mura Murska Sobota;2025;club
+256;Aris Limassol;2025;club
+257;AEL Limassol;2025;club
+258;St. Patrick's Athletic;2025;club
+259;Milsami Orhei;2025;club
+260;La Fiorita;2025;club
+261;Gzira United;2025;club
+262;Valmieras FK;2025;club
+263;Sutjeska Niksic;2025;club
+264;Hammarby IF;2025;club
+265;Hibernians FC;2025;club
+266;Kairat Almaty;2025;club
+267;Kalmar FF;2025;club
+268;AIK Stockholm;2025;club
+269;IFK Göteborg;2025;club
+270;Lokomotiva Zagreb;2025;club
+271;Radnicki 1923;2025;club
+272;Radnicki Nis;2025;club
+273;FC Noah;2025;club
+274;MFK Ruzomberok;2025;club
+275;FC Struga;2025;club
+276;Differdange 03;2025;club
+277;Derry City;2025;club
+278;Tre Penne;2025;club
+279;Vllaznia Shkodër;2025;club
+280;Connah's Quay;2025;club
+281;Kauno Zalgiris;2025;club
+282;MSK Zilina;2025;club
+283;KF Laçi;2025;club
+284;Suduva Marijampole;2025;club
+285;CS Fola Esch;2025;club
+286;Kryvbas Kryviy Rih;2025;club
+287;Polissya Zhytomyr;2025;club
+288;Vorskla Poltava;2025;club
+289;Kolos Kovalivka;2025;club
+290;Desna Chernihiv;2025;club
+291;Paksi FC;2025;club
+292;DVSC Debrecen;2025;club
+293;Kecskeméti TE;2025;club
+294;Zalaegerszegi TE;2025;club
+295;Kisvárda FC;2025;club
+296;Újpest TE;2025;club
+297;Honvéd Budapest;2025;club
+298;Corvinul Hunedoara;2025;club
+299;Farul Constanta;2025;club
+300;FC Botosani;2025;club
+301;FC Sochi;2025;club
+302;Rubin Kazan;2025;club
+303;CSKA Moscow;2025;club
+304;FK Rostov;2025;club
+305;Dinamo Moscow;2025;club
+306;Ordabasy Shymkent;2025;club
+307;Saburtalo Tbilisi;2025;club
+308;Progrès Niederkorn;2025;club
+309;Floriana;2025;club
+310;Velez Mostar;2025;club
+311;Bala Town;2025;club
+312;Levski Sofia;2025;club
+313;Europa FC;2025;club
+314;Shakhtior Saligorsk;2025;club
+315;NK Bravo;2025;club
+316;NK Domzale;2025;club
+317;NK Koper;2025;club
+318;Zira FK;2025;club
+319;Sabah FK;2025;club
+320;Decic Tuzi;2025;club
+321;Urartu FC;2025;club
+322;Víkingur;2025;club
+323;Sumgayit FK;2025;club
+324;Crusaders Belfast;2025;club
+325;Torpedo Zhodino;2025;club
+326;FK Liepaja;2025;club
+327;St Joseph's FC;2025;club
+328;Dila Gori;2025;club
+329;FC Santa Coloma;2025;club
+330;Dynamo Brest;2025;club
+331;CSKA 1948 Sofia;2025;club
+332;Botev Plovdiv;2025;club
+333;Cherno More Varna;2025;club
+334;Lokomotiv Plovdiv;2025;club
+335;Arda Kardzhali;2025;club
+336;Slavia Sofia;2025;club
+337;Gabala FK;2025;club
+338;Kesla FK;2025;club
+339;UE Santa Coloma;2025;club
+340;FK Auda;2025;club
+341;Neman Grodno;2025;club
+342;FCB Magpies;2025;club
+343;KF Llapi;2025;club
+344;Atlètic Club d'Escaldes;2025;club
+345;Honka Espoo;2025;club
+346;Sfântul Gheorghe;2025;club
+347;Teuta Durrës;2025;club
+348;Ilves Tampere;2025;club
+349;Zimbru Chisinau;2025;club
+350;Torpedo Kutaisi;2025;club
+351;Valur Reykjavik;2025;club
+352;FK Aktobe;2025;club
+353;Swift Hesperange;2025;club
+354;SC Gjilani;2025;club
+355;Glentoran;2025;club
+356;Sligo Rovers;2025;club
+357;Tre Fiori;2025;club
+358;Inter Turku;2025;club
+359;Bohemians Dublin;2025;club
+360;Shelbourne;2025;club
+361;Dinamo-Auto Tiraspol;2025;club
+362;Stjarnan FC;2025;club
+363;KA Akureyri;2025;club
+364;KR Reykjavik;2025;club
+365;FH Hafnarfjardar;2025;club
+366;Zeljeznicar Sarajevo;2025;club
+367;Tuzla City;2025;club
+368;Siroki Brijeg;2025;club
+369;Egnatia Rrogozhinë;2025;club
+370;Cliftonville;2025;club
+371;Makedonija GjP;2025;club
+372;Birkirkara;2025;club
+373;Racing Union Luxembourg;2025;club
+374;Newtown;2025;club
+375;Ararat Yerevan;2025;club
+376;Shakhtyor Karaganda;2025;club
+377;FC Prishtina;2025;club
+378;Coleraine;2025;club
+379;Sileks Kratovo;2025;club
+380;FK Ventspils;2025;club
+381;Shirak Gyumri;2025;club
+382;KF Malisheva;2025;club
+383;KF Dukagjini;2025;club
+384;VPS Vaasa;2025;club
+385;Haka Valkeakoski;2025;club
+386;SJK Seinäjoki;2025;club
+387;FK Kyzylzhar;2025;club
+388;Kaysar Kyzylorda;2025;club
+389;NSI Runavik;2025;club
+390;Mornar Bar;2025;club
+391;Iskra Danilovgrad;2025;club
+392;Lokomotivi Tbilisi;2025;club
+393;Sliema Wanderers;2025;club
+394;Marsaxlokk;2025;club
+395;Balzan FC;2025;club
+396;Mosta FC;2025;club
+397;Sirens FC;2025;club
+398;Valletta FC;2025;club
+399;Transinvest Vilnius;2025;club
+400;FA Siauliai;2025;club
+401;FC Hegelmann;2025;club
+402;FK Riteriai;2025;club
+403;Kalev Tallinn;2025;club
+404;Trans Narva;2025;club
+405;Kalju Nomme;2025;club
+406;FK Kukësi;2025;club
+407;Caernarfon Town;2025;club
+408;AC Virtus;2025;club
+409;Haverfordwest County;2025;club
+410;FC Gomel;2025;club
+411;Folgore;2025;club
+412;Renova Dzepciste;2025;club
+413;Arsenal Tivat;2025;club
+414;FK Podgorica;2025;club
+415;Zeta Golubovci;2025;club
+416;UNA Strassen;2025;club
+417;Union Titus Pétange;2025;club
+418;Penybont;2025;club
+419;Barry Town;2025;club
+420;Gagra Tbilisi;2025;club
+421;Tikves Kavadarci;2025;club
+422;Akademija Pandev;2025;club
+423;Isloch Minsk Raion;2025;club
+424;Sant Julià;2025;club
+425;UE Engordany;2025;club
+426;Mons Calpe;2025;club
+427;Cosmos;2025;club
+1;Bayern München;2026;club
+2;Real Madrid;2026;club
+3;Paris Saint-Germain;2026;club
+4;Liverpool;2026;club
+5;Internazionale;2026;club
+6;Manchester City;2026;club
+7;Arsenal;2026;club
+8;FC Barcelona;2026;club
+9;Bayer Leverkusen;2026;club
+10;Atlético Madrid;2026;club
+11;Borussia Dortmund;2026;club
+12;Chelsea;2026;club
+13;AS Roma;2026;club
+14;Benfica;2026;club
+15;Sporting CP Lisbon;2026;club
+16;Atalanta;2026;club
+17;Aston Villa;2026;club
+18;Eintracht Frankfurt;2026;club
+19;Tottenham Hotspur;2026;club
+20;FC Porto;2026;club
+21;Manchester United;2026;club
+22;Fiorentina;2026;club
+23;Club Brugge;2026;club
+24;Real Betis;2026;club
+25;Juventus;2026;club
+26;PSV Eindhoven;2026;club
+27;Feyenoord;2026;club
+28;West Ham United;2026;club
+29;Lille OSC;2026;club
+30;AC Milan;2026;club
+31;Olympique Lyon;2026;club
+32;Bodø/Glimt;2026;club
+33;Sporting Braga;2026;club
+34;Napoli;2026;club
+35;AZ Alkmaar;2026;club
+36;Olympiakos Piraeus;2026;club
+37;RB Leipzig;2026;club
+38;Glasgow Rangers;2026;club
+39;Villarreal;2026;club
+40;Lazio;2026;club
+41;Ajax;2026;club
+42;Fenerbahçe;2026;club
+43;Real Sociedad;2026;club
+44;SC Freiburg;2026;club
+45;Shakhtar Donetsk;2026;club
+46;AS Monaco;2026;club
+47;FC København;2026;club
+48;Olympique Marseille;2026;club
+49;Galatasaray;2026;club
+50;Ferencváros;2026;club
+51;Viktoria Plzen;2026;club
+52;FC Midtjylland;2026;club
+53;PAOK Thessaloniki;2026;club
+54;Union Saint-Gilloise;2026;club
+55;Red Star Belgrade;2026;club
+56;Dinamo Zagreb;2026;club
+57;FC Salzburg;2026;club
+58;Celtic;2026;club
+59;Slavia Praha;2026;club
+60;Qarabag FK;2026;club
+61;AA Gent;2026;club
+62;Sevilla;2026;club
+63;Athletic Bilbao;2026;club
+64;Sparta Praha;2026;club
+65;Slovan Bratislava;2026;club
+66;Stade Rennais;2026;club
+67;FC Basel;2026;club
+68;Legia Warsaw;2026;club
+69;Maccabi Tel-Aviv;2026;club
+70;Djurgårdens IF;2026;club
+71;Bologna;2026;club
+72;Anderlecht;2026;club
+73;Newcastle United;2026;club
+74;Rapid Wien;2026;club
+75;Young Boys;2026;club
+76;Panathinaikos;2026;club
+77;Racing Genk;2026;club
+78;Ludogorets Razgrad;2026;club
+79;Sturm Graz;2026;club
+80;VfB Stuttgart;2026;club
+81;Lech Poznan;2026;club
+82;FCSB;2026;club
+83;Pafos FC;2026;club
+84;AEK Athens;2026;club
+85;Nottingham Forest;2026;club
+86;Crystal Palace;2026;club
+87;Brighton & Hove Albion;2026;club
+88;Leicester City;2026;club
+89;NK Celje;2026;club
+90;Union Berlin;2026;club
+91;Raków Czestochowa;2026;club
+92;Rayo Vallecano;2026;club
+93;Jagiellonia Bialystok;2026;club
+94;Partizan Belgrade;2026;club
+95;Molde FK;2026;club
+96;RC Strasbourg;2026;club
+97;Omonia Nicosia;2026;club
+98;FC Lugano;2026;club
+99;LASK;2026;club
+100;AEK Larnaca;2026;club
+101;OGC Nice;2026;club
+102;Sheriff Tiraspol;2026;club
+103;Istanbul Basaksehir;2026;club
+104;Celta de Vigo;2026;club
+105;Girona FC;2026;club
+106;Osasuna;2026;club
+107;Shamrock Rovers;2026;club
+108;Vitória Guimarães;2026;club
+109;NK Rijeka;2026;club
+110;FSV Mainz 05;2026;club
+111;1.FC Heidenheim;2026;club
+112;1899 Hoffenheim;2026;club
+113;1.FC Köln;2026;club
+114;VfL Wolfsburg;2026;club
+115;Olimpija Ljubljana;2026;club
+116;Dynamo Kyiv;2026;club
+117;CFR Cluj;2026;club
+118;Maccabi Haifa;2026;club
+119;Stade Brestois;2026;club
+120;RC Lens;2026;club
+121;Toulouse FC;2026;club
+122;FC Nantes;2026;club
+123;Besiktas;2026;club
+124;Malmö FF;2026;club
+125;APOEL Nicosia;2026;club
+126;CD Santa Clara;2026;club
+127;FC Arouca;2026;club
+128;Gil Vicente;2026;club
+129;Paços de Ferreira;2026;club
+130;KuPS Kuopio;2026;club
+131;HJK Helsinki;2026;club
+132;Hapoel Beer-Sheva;2026;club
+133;FC Drita;2026;club
+134;Go Ahead Eagles;2026;club
+135;FC Utrecht;2026;club
+136;FC Twente Enschede;2026;club
+137;Vitesse Arnhem;2026;club
+138;Lincoln Red Imps;2026;club
+139;Zrinjski Mostar;2026;club
+140;Borac Banja Luka;2026;club
+141;Cercle Brugge;2026;club
+142;RFS Riga;2026;club
+143;Servette FC Genève;2026;club
+144;FK Astana;2026;club
+145;Royal Antwerp;2026;club
+146;Sivasspor;2026;club
+147;Charleroi;2026;club
+148;SK Brann Bergen;2026;club
+149;Breidablik;2026;club
+150;Zalgiris Vilnius;2026;club
+151;SC Dnipro-1;2026;club
+152;Zorya Luhansk;2026;club
+153;Spartak Moscow;2026;club
+154;Vikingur Reykjavik;2026;club
+155;Hearts FC;2026;club
+156;Samsunspor;2026;club
+157;Kairat Almaty;2026;club
+158;IF Elfsborg;2026;club
+159;Trabzonspor;2026;club
+160;Shkendija Tetovo;2026;club
+161;FC Noah;2026;club
+162;Universitatea Craiova;2026;club
+163;Riga FC;2026;club
+164;KI Klaksvik;2026;club
+165;Spartak Trnava;2026;club
+166;Adana Demirspor;2026;club
+167;Konyaspor;2026;club
+168;Lausanne Sports;2026;club
+169;BK Häcken;2026;club
+170;Aberdeen;2026;club
+171;FC Ballkani;2026;club
+172;Hajduk Split;2026;club
+173;Pyunik Yerevan;2026;club
+174;NK Maribor;2026;club
+175;Flora Tallinn;2026;club
+176;Sigma Olomouc;2026;club
+177;Baník Ostrava;2026;club
+178;Mladá Boleslav;2026;club
+179;Bohemians Praha;2026;club
+180;1.FC Slovácko;2026;club
+181;FK Jablonec;2026;club
+182;Aris Thessaloniki;2026;club
+183;Brøndby IF;2026;club
+184;Linfield Belfast;2026;club
+185;Austria Wien;2026;club
+186;Wisla Kraków;2026;club
+187;Slask Wroclaw;2026;club
+188;Pogon Szczecin;2026;club
+189;Lechia Gdansk;2026;club
+190;Larne FC;2026;club
+191;Petrocub Hîncesti;2026;club
+192;The New Saints;2026;club
+193;Hamrun Spartans;2026;club
+194;FC Vaduz;2026;club
+195;Silkeborg IF;2026;club
+196;FC Nordsjælland;2026;club
+197;AGF Aarhus;2026;club
+198;Viborg FF;2026;club
+199;Randers FC;2026;club
+200;Rosenborg BK;2026;club
+201;Fredrikstad FK;2026;club
+202;Viking Stavanger;2026;club
+203;Tromsø IL;2026;club
+204;Lillestrøm SK;2026;club
+205;Vålerengens IF;2026;club
+206;TSC Backa Topola;2026;club
+207;F91 Dudelange;2026;club
+208;Tobol Kustanai;2026;club
+209;Zenit St. Petersburg;2026;club
+210;St. Patrick's Athletic;2026;club
+211;Milsami Orhei;2026;club
+212;Levadia Tallinn;2026;club
+213;Paide Linnameeskond;2026;club
+214;Inter Club d'Escaldes;2026;club
+215;Buducnost Podgorica;2026;club
+216;Partizani Tirana;2026;club
+217;NK Osijek;2026;club
+218;Aris Limassol;2026;club
+219;Apollon Limassol;2026;club
+220;Anorthosis Famagusta;2026;club
+221;AEL Limassol;2026;club
+222;Levski Sofia;2026;club
+223;Hibernian;2026;club
+224;Ararat-Armenia;2026;club
+225;Puskás Akadémia;2026;club
+226;HB Torshavn;2026;club
+227;FC Sankt Gallen;2026;club
+228;FC Zürich;2026;club
+229;FC Luzern;2026;club
+230;Wolfsberger AC;2026;club
+231;Differdange 03;2026;club
+232;Dinamo Minsk;2026;club
+233;Vllaznia Shkodër;2026;club
+234;FK Panevezys;2026;club
+235;Cukaricki Belgrade;2026;club
+236;Neftchi Baku;2026;club
+237;CSKA Sofia;2026;club
+238;Dundee United;2026;club
+239;Kilmarnock;2026;club
+240;St. Mirren;2026;club
+241;Motherwell;2026;club
+242;St. Johnstone;2026;club
+243;Neman Grodno;2026;club
+244;Sabah FK;2026;club
+245;Víkingur;2026;club
+246;Kauno Zalgiris;2026;club
+247;Hammarby IF;2026;club
+248;Sutjeska Niksic;2026;club
+249;La Fiorita;2026;club
+250;DAC Dunajska Streda;2026;club
+251;Dinamo Batumi;2026;club
+252;Sepsi OSK;2026;club
+253;AIK Stockholm;2026;club
+254;Kalmar FF;2026;club
+255;NK Varazdin;2026;club
+256;Beitar Jerusalem;2026;club
+257;Zira FK;2026;club
+258;Decic Tuzi;2026;club
+259;Torpedo Zhodino;2026;club
+260;Dila Gori;2026;club
+261;MSK Zilina;2026;club
+262;Hibernians FC;2026;club
+263;Vojvodina Novi Sad;2026;club
+264;FC Fehérvár;2026;club
+265;Maccabi Petah-Tikva;2026;club
+266;BATE Borisov;2026;club
+267;Gzira United;2026;club
+268;FK Shkupi;2026;club
+269;Maccabi Netanya;2026;club
+270;MS Ashdod;2026;club
+271;ETO Györ;2026;club
+272;Paksi FC;2026;club
+273;DVSC Debrecen;2026;club
+274;Kecskeméti TE;2026;club
+275;Zalaegerszegi TE;2026;club
+276;Kisvárda FC;2026;club
+277;Újpest TE;2026;club
+278;Polissya Zhytomyr;2026;club
+279;FC Oleksandriya;2026;club
+280;Kryvbas Kryviy Rih;2026;club
+281;Vorskla Poltava;2026;club
+282;Kolos Kovalivka;2026;club
+283;Radnicki 1923;2026;club
+284;Novi Pazar;2026;club
+285;Radnicki Nis;2026;club
+286;Universitatea Cluj;2026;club
+287;Corvinul Hunedoara;2026;club
+288;Farul Constanta;2026;club
+289;Iberia 1999;2026;club
+290;FK Sarajevo;2026;club
+291;Atlètic Club d'Escaldes;2026;club
+292;St Joseph's FC;2026;club
+293;FC Santa Coloma;2026;club
+294;Urartu FC;2026;club
+295;FC Struga;2026;club
+296;B36 Torshavn;2026;club
+297;Dinamo Tbilisi;2026;club
+298;Alashkert FC;2026;club
+299;NK Koper;2026;club
+300;NK Bravo;2026;club
+301;NK Domzale;2026;club
+302;Mura Murska Sobota;2026;club
+303;Araz Nakhchivan;2026;club
+304;Sumgayit FK;2026;club
+305;Gabala FK;2026;club
+306;Kesla FK;2026;club
+307;Lokomotiv Moscow;2026;club
+308;FC Sochi;2026;club
+309;Rubin Kazan;2026;club
+310;Egnatia Rrogozhinë;2026;club
+311;Zimbru Chisinau;2026;club
+312;Torpedo Kutaisi;2026;club
+313;Valur Reykjavik;2026;club
+314;FK Aktobe;2026;club
+315;Ordabasy Shymkent;2026;club
+316;FK Auda;2026;club
+317;FCB Magpies;2026;club
+318;Tre Penne;2026;club
+319;Velez Mostar;2026;club
+320;Valmieras FK;2026;club
+321;FC Kosice;2026;club
+322;MFK Ruzomberok;2026;club
+323;Arda Kardzhali;2026;club
+324;Cherno More Varna;2026;club
+325;CSKA 1948 Sofia;2026;club
+326;Botev Plovdiv;2026;club
+327;Lokomotiv Plovdiv;2026;club
+328;Shelbourne;2026;club
+329;AC Virtus;2026;club
+330;Floriana;2026;club
+331;Derry City;2026;club
+332;KF Tirana;2026;club
+333;Crusaders Belfast;2026;club
+334;FK Liepaja;2026;club
+335;Ilves Tampere;2026;club
+336;KA Akureyri;2026;club
+337;FC Prishtina;2026;club
+338;Cliftonville;2026;club
+339;Birkirkara;2026;club
+340;Racing Union Luxembourg;2026;club
+341;UE Santa Coloma;2026;club
+342;KF Llapi;2026;club
+343;Connah's Quay;2026;club
+344;Dundalk;2026;club
+345;Shakhtior Saligorsk;2026;club
+346;KF Laçi;2026;club
+347;CS Fola Esch;2026;club
+348;Sligo Rovers;2026;club
+349;Bohemians Dublin;2026;club
+350;Stjarnan FC;2026;club
+351;KR Reykjavik;2026;club
+352;FH Hafnarfjardar;2026;club
+353;Ararat Yerevan;2026;club
+354;Progrès Niederkorn;2026;club
+355;Bala Town;2026;club
+356;Swift Hesperange;2026;club
+357;Europa FC;2026;club
+358;Suduva Marijampole;2026;club
+359;Sfântul Gheorghe;2026;club
+360;SJK Seinäjoki;2026;club
+361;VPS Vaasa;2026;club
+362;Honka Espoo;2026;club
+363;Haka Valkeakoski;2026;club
+364;Inter Turku;2026;club
+365;KF Malisheva;2026;club
+366;KF Dukagjini;2026;club
+367;SC Gjilani;2026;club
+368;FK Kyzylzhar;2026;club
+369;Shakhtyor Karaganda;2026;club
+370;Zeljeznicar Sarajevo;2026;club
+371;Tuzla City;2026;club
+372;Siroki Brijeg;2026;club
+373;BFC Daugavpils;2026;club
+374;Dinamo Tirana;2026;club
+375;UNA Strassen;2026;club
+376;Haverfordwest County;2026;club
+377;Tre Fiori;2026;club
+378;Dynamo Brest;2026;club
+379;Makedonija GjP;2026;club
+380;Newtown;2026;club
+381;FC Hegelmann;2026;club
+382;Penybont;2026;club
+383;NSI Runavik;2026;club
+384;Sileks Kratovo;2026;club
+385;Mornar Bar;2026;club
+386;Glentoran;2026;club
+387;Teuta Durrës;2026;club
+388;Sliema Wanderers;2026;club
+389;Marsaxlokk;2026;club
+390;Balzan FC;2026;club
+391;Mosta FC;2026;club
+392;Kalju Nomme;2026;club
+393;Kalev Tallinn;2026;club
+394;Trans Narva;2026;club
+395;Vardar Skopje;2026;club
+396;Rabotnicki Skopje;2026;club
+397;Tikves Kavadarci;2026;club
+398;Akademija Pandev;2026;club
+399;Banga Gargzdai;2026;club
+400;Transinvest Vilnius;2026;club
+401;FA Siauliai;2026;club
+402;Dungannon Swifts;2026;club
+403;Spaeri Tbilisi;2026;club
+404;Caernarfon Town;2026;club
+405;FC Gomel;2026;club
+406;Folgore;2026;club
+407;Coleraine;2026;club
+408;Mons Calpe;2026;club
+409;Sant Julià;2026;club
+410;Isloch Minsk Raion;2026;club
+411;Arsenal Tivat;2026;club
+412;Iskra Danilovgrad;2026;club
+413;FK Podgorica;2026;club
+414;Gagra Tbilisi;2026;club
+415;Cosmos;2026;club
+1;Spain;2017;federation
+2;Germany;2017;federation
+3;England;2017;federation
+4;Italy;2017;federation
+5;France;2017;federation
+6;Russia;2017;federation
+7;Portugal;2017;federation
+8;Ukraine;2017;federation
+9;Belgium;2017;federation
+10;Turkey;2017;federation
+11;Czech Republic;2017;federation
+12;Switzerland;2017;federation
+13;Netherlands;2017;federation
+14;Greece;2017;federation
+15;Austria;2017;federation
+16;Croatia;2017;federation
+17;Romania;2017;federation
+18;Denmark;2017;federation
+19;Belarus;2017;federation
+20;Poland;2017;federation
+21;Sweden;2017;federation
+22;Israel;2017;federation
+23;Scotland;2017;federation
+24;Cyprus;2017;federation
+25;Norway;2017;federation
+26;Azerbaijan;2017;federation
+27;Bulgaria;2017;federation
+28;Serbia;2017;federation
+29;Kazakhstan;2017;federation
+30;Slovenia;2017;federation
+31;Slovakia;2017;federation
+32;Liechtenstein;2017;federation
+33;Hungary;2017;federation
+34;Moldova;2017;federation
+35;Iceland;2017;federation
+36;Finland;2017;federation
+37;Albania;2017;federation
+38;Ireland;2017;federation
+39;Bosnia-Herzegovina;2017;federation
+40;Georgia;2017;federation
+41;Latvia;2017;federation
+42;North Macedonia;2017;federation
+43;Estonia;2017;federation
+44;Montenegro;2017;federation
+45;Armenia;2017;federation
+46;Luxembourg;2017;federation
+47;Northern Ireland;2017;federation
+48;Lithuania;2017;federation
+49;Malta;2017;federation
+50;Wales;2017;federation
+51;Faroe Islands;2017;federation
+52;Gibraltar;2017;federation
+53;Andorra;2017;federation
+54;San Marino;2017;federation
+1;Spain;2018;federation
+2;England;2018;federation
+3;Italy;2018;federation
+4;Germany;2018;federation
+5;France;2018;federation
+6;Russia;2018;federation
+7;Portugal;2018;federation
+8;Ukraine;2018;federation
+9;Belgium;2018;federation
+10;Türkiye;2018;federation
+11;Austria;2018;federation
+12;Switzerland;2018;federation
+13;Czechia;2018;federation
+14;Netherlands;2018;federation
+15;Greece;2018;federation
+16;Croatia;2018;federation
+17;Denmark;2018;federation
+18;Israel;2018;federation
+19;Cyprus;2018;federation
+20;Romania;2018;federation
+21;Poland;2018;federation
+22;Sweden;2018;federation
+23;Azerbaijan;2018;federation
+24;Bulgaria;2018;federation
+25;Serbia;2018;federation
+26;Scotland;2018;federation
+27;Belarus;2018;federation
+28;Kazakhstan;2018;federation
+29;Norway;2018;federation
+30;Slovenia;2018;federation
+31;Liechtenstein;2018;federation
+32;Slovakia;2018;federation
+33;Moldova;2018;federation
+34;Albania;2018;federation
+35;Iceland;2018;federation
+36;Hungary;2018;federation
+37;North Macedonia;2018;federation
+38;Finland;2018;federation
+39;Ireland;2018;federation
+40;Bosnia-Herzegovina;2018;federation
+41;Latvia;2018;federation
+42;Estonia;2018;federation
+43;Lithuania;2018;federation
+44;Montenegro;2018;federation
+45;Georgia;2018;federation
+46;Armenia;2018;federation
+47;Malta;2018;federation
+48;Luxembourg;2018;federation
+49;Northern Ireland;2018;federation
+50;Wales;2018;federation
+51;Faroe Islands;2018;federation
+52;Gibraltar;2018;federation
+53;Andorra;2018;federation
+54;San Marino;2018;federation
+55;Kosovo;2018;federation
+1;Spain;2019;federation
+2;England;2019;federation
+3;Italy;2019;federation
+4;Germany;2019;federation
+5;France;2019;federation
+6;Russia;2019;federation
+7;Portugal;2019;federation
+8;Belgium;2019;federation
+9;Ukraine;2019;federation
+10;Türkiye;2019;federation
+11;Netherlands;2019;federation
+12;Austria;2019;federation
+13;Czechia;2019;federation
+14;Greece;2019;federation
+15;Croatia;2019;federation
+16;Denmark;2019;federation
+17;Switzerland;2019;federation
+18;Cyprus;2019;federation
+19;Serbia;2019;federation
+20;Scotland;2019;federation
+21;Belarus;2019;federation
+22;Sweden;2019;federation
+23;Norway;2019;federation
+24;Kazakhstan;2019;federation
+25;Poland;2019;federation
+26;Azerbaijan;2019;federation
+27;Israel;2019;federation
+28;Bulgaria;2019;federation
+29;Romania;2019;federation
+30;Slovakia;2019;federation
+31;Slovenia;2019;federation
+32;Liechtenstein;2019;federation
+33;Hungary;2019;federation
+34;North Macedonia;2019;federation
+35;Moldova;2019;federation
+36;Albania;2019;federation
+37;Ireland;2019;federation
+38;Finland;2019;federation
+39;Iceland;2019;federation
+40;Bosnia-Herzegovina;2019;federation
+41;Lithuania;2019;federation
+42;Latvia;2019;federation
+43;Luxembourg;2019;federation
+44;Armenia;2019;federation
+45;Malta;2019;federation
+46;Estonia;2019;federation
+47;Georgia;2019;federation
+48;Wales;2019;federation
+49;Montenegro;2019;federation
+50;Faroe Islands;2019;federation
+51;Gibraltar;2019;federation
+52;Northern Ireland;2019;federation
+53;Kosovo;2019;federation
+54;Andorra;2019;federation
+55;San Marino;2019;federation
+1;Spain;2020;federation
+2;England;2020;federation
+3;Germany;2020;federation
+4;Italy;2020;federation
+5;France;2020;federation
+6;Portugal;2020;federation
+7;Russia;2020;federation
+8;Belgium;2020;federation
+9;Ukraine;2020;federation
+10;Netherlands;2020;federation
+11;Türkiye;2020;federation
+12;Austria;2020;federation
+13;Denmark;2020;federation
+14;Scotland;2020;federation
+15;Czechia;2020;federation
+16;Cyprus;2020;federation
+17;Switzerland;2020;federation
+18;Greece;2020;federation
+19;Serbia;2020;federation
+20;Croatia;2020;federation
+21;Sweden;2020;federation
+22;Norway;2020;federation
+23;Israel;2020;federation
+24;Kazakhstan;2020;federation
+25;Belarus;2020;federation
+26;Azerbaijan;2020;federation
+27;Bulgaria;2020;federation
+28;Romania;2020;federation
+29;Poland;2020;federation
+30;Slovakia;2020;federation
+31;Liechtenstein;2020;federation
+32;Slovenia;2020;federation
+33;Hungary;2020;federation
+34;Luxembourg;2020;federation
+35;Lithuania;2020;federation
+36;Armenia;2020;federation
+37;Latvia;2020;federation
+38;Albania;2020;federation
+39;North Macedonia;2020;federation
+40;Bosnia-Herzegovina;2020;federation
+41;Moldova;2020;federation
+42;Ireland;2020;federation
+43;Finland;2020;federation
+44;Georgia;2020;federation
+45;Malta;2020;federation
+46;Iceland;2020;federation
+47;Wales;2020;federation
+48;Northern Ireland;2020;federation
+49;Gibraltar;2020;federation
+50;Montenegro;2020;federation
+51;Estonia;2020;federation
+52;Kosovo;2020;federation
+53;Faroe Islands;2020;federation
+54;Andorra;2020;federation
+55;San Marino;2020;federation
+1;England;2021;federation
+2;Spain;2021;federation
+3;Italy;2021;federation
+4;Germany;2021;federation
+5;France;2021;federation
+6;Portugal;2021;federation
+7;Netherlands;2021;federation
+8;Russia;2021;federation
+9;Belgium;2021;federation
+10;Austria;2021;federation
+11;Scotland;2021;federation
+12;Ukraine;2021;federation
+13;Türkiye;2021;federation
+14;Denmark;2021;federation
+15;Cyprus;2021;federation
+16;Serbia;2021;federation
+17;Czechia;2021;federation
+18;Croatia;2021;federation
+19;Switzerland;2021;federation
+20;Greece;2021;federation
+21;Israel;2021;federation
+22;Norway;2021;federation
+23;Sweden;2021;federation
+24;Bulgaria;2021;federation
+25;Romania;2021;federation
+26;Azerbaijan;2021;federation
+27;Kazakhstan;2021;federation
+28;Hungary;2021;federation
+29;Belarus;2021;federation
+30;Poland;2021;federation
+31;Slovenia;2021;federation
+32;Slovakia;2021;federation
+33;Liechtenstein;2021;federation
+34;Lithuania;2021;federation
+35;Luxembourg;2021;federation
+36;Bosnia-Herzegovina;2021;federation
+37;Ireland;2021;federation
+38;North Macedonia;2021;federation
+39;Armenia;2021;federation
+40;Latvia;2021;federation
+41;Albania;2021;federation
+42;Northern Ireland;2021;federation
+43;Georgia;2021;federation
+44;Finland;2021;federation
+45;Moldova;2021;federation
+46;Malta;2021;federation
+47;Faroe Islands;2021;federation
+48;Kosovo;2021;federation
+49;Gibraltar;2021;federation
+50;Montenegro;2021;federation
+51;Wales;2021;federation
+52;Iceland;2021;federation
+53;Estonia;2021;federation
+54;Andorra;2021;federation
+55;San Marino;2021;federation
+1;England;2022;federation
+2;Spain;2022;federation
+3;Italy;2022;federation
+4;Germany;2022;federation
+5;France;2022;federation
+6;Portugal;2022;federation
+7;Netherlands;2022;federation
+8;Austria;2022;federation
+9;Scotland;2022;federation
+10;Russia;2022;federation
+11;Serbia;2022;federation
+12;Ukraine;2022;federation
+13;Belgium;2022;federation
+14;Switzerland;2022;federation
+15;Greece;2022;federation
+16;Czechia;2022;federation
+17;Norway;2022;federation
+18;Denmark;2022;federation
+19;Croatia;2022;federation
+20;Türkiye;2022;federation
+21;Cyprus;2022;federation
+22;Israel;2022;federation
+23;Sweden;2022;federation
+24;Bulgaria;2022;federation
+25;Romania;2022;federation
+26;Azerbaijan;2022;federation
+27;Hungary;2022;federation
+28;Poland;2022;federation
+29;Kazakhstan;2022;federation
+30;Slovakia;2022;federation
+31;Slovenia;2022;federation
+32;Belarus;2022;federation
+33;Moldova;2022;federation
+34;Lithuania;2022;federation
+35;Bosnia-Herzegovina;2022;federation
+36;Finland;2022;federation
+37;Luxembourg;2022;federation
+38;Latvia;2022;federation
+39;Kosovo;2022;federation
+40;Ireland;2022;federation
+41;Armenia;2022;federation
+42;Northern Ireland;2022;federation
+43;Albania;2022;federation
+44;Faroe Islands;2022;federation
+45;Estonia;2022;federation
+46;Malta;2022;federation
+47;Georgia;2022;federation
+48;North Macedonia;2022;federation
+49;Liechtenstein;2022;federation
+50;Wales;2022;federation
+51;Gibraltar;2022;federation
+52;Iceland;2022;federation
+53;Montenegro;2022;federation
+54;Andorra;2022;federation
+55;San Marino;2022;federation
+1;England;2023;federation
+2;Spain;2023;federation
+3;Germany;2023;federation
+4;Italy;2023;federation
+5;France;2023;federation
+6;Netherlands;2023;federation
+7;Portugal;2023;federation
+8;Belgium;2023;federation
+9;Scotland;2023;federation
+10;Austria;2023;federation
+11;Serbia;2023;federation
+12;Türkiye;2023;federation
+13;Switzerland;2023;federation
+14;Ukraine;2023;federation
+15;Czechia;2023;federation
+16;Norway;2023;federation
+17;Denmark;2023;federation
+18;Russia;2023;federation
+19;Croatia;2023;federation
+20;Greece;2023;federation
+21;Israel;2023;federation
+22;Cyprus;2023;federation
+23;Sweden;2023;federation
+24;Poland;2023;federation
+25;Hungary;2023;federation
+26;Romania;2023;federation
+27;Bulgaria;2023;federation
+28;Slovakia;2023;federation
+29;Azerbaijan;2023;federation
+30;Kazakhstan;2023;federation
+31;Slovenia;2023;federation
+32;Moldova;2023;federation
+33;Kosovo;2023;federation
+34;Liechtenstein;2023;federation
+35;Latvia;2023;federation
+36;Ireland;2023;federation
+37;Finland;2023;federation
+38;Lithuania;2023;federation
+39;Armenia;2023;federation
+40;Belarus;2023;federation
+41;Bosnia-Herzegovina;2023;federation
+42;Luxembourg;2023;federation
+43;Faroe Islands;2023;federation
+44;Northern Ireland;2023;federation
+45;Malta;2023;federation
+46;Georgia;2023;federation
+47;Estonia;2023;federation
+48;Iceland;2023;federation
+49;Albania;2023;federation
+50;Wales;2023;federation
+51;Gibraltar;2023;federation
+52;North Macedonia;2023;federation
+53;Andorra;2023;federation
+54;Montenegro;2023;federation
+55;San Marino;2023;federation
+1;England;2024;federation
+2;Italy;2024;federation
+3;Spain;2024;federation
+4;Germany;2024;federation
+5;France;2024;federation
+6;Netherlands;2024;federation
+7;Portugal;2024;federation
+8;Belgium;2024;federation
+9;Türkiye;2024;federation
+10;Czechia;2024;federation
+11;Scotland;2024;federation
+12;Switzerland;2024;federation
+13;Austria;2024;federation
+14;Norway;2024;federation
+15;Greece;2024;federation
+16;Denmark;2024;federation
+17;Israel;2024;federation
+18;Ukraine;2024;federation
+19;Serbia;2024;federation
+20;Croatia;2024;federation
+21;Poland;2024;federation
+22;Russia;2024;federation
+23;Cyprus;2024;federation
+24;Hungary;2024;federation
+25;Sweden;2024;federation
+26;Romania;2024;federation
+27;Bulgaria;2024;federation
+28;Azerbaijan;2024;federation
+29;Slovakia;2024;federation
+30;Slovenia;2024;federation
+31;Moldova;2024;federation
+32;Kosovo;2024;federation
+33;Kazakhstan;2024;federation
+34;Finland;2024;federation
+35;Ireland;2024;federation
+36;Armenia;2024;federation
+37;Latvia;2024;federation
+38;Faroe Islands;2024;federation
+39;Bosnia-Herzegovina;2024;federation
+40;Liechtenstein;2024;federation
+41;Iceland;2024;federation
+42;Northern Ireland;2024;federation
+43;Luxembourg;2024;federation
+44;Lithuania;2024;federation
+45;Malta;2024;federation
+46;Georgia;2024;federation
+47;Albania;2024;federation
+48;Estonia;2024;federation
+49;Belarus;2024;federation
+50;North Macedonia;2024;federation
+51;Andorra;2024;federation
+52;Wales;2024;federation
+53;Montenegro;2024;federation
+54;Gibraltar;2024;federation
+55;San Marino;2024;federation
+1;England;2025;federation
+2;Italy;2025;federation
+3;Spain;2025;federation
+4;Germany;2025;federation
+5;France;2025;federation
+6;Netherlands;2025;federation
+7;Portugal;2025;federation
+8;Belgium;2025;federation
+9;Czechia;2025;federation
+10;Türkiye;2025;federation
+11;Norway;2025;federation
+12;Greece;2025;federation
+13;Austria;2025;federation
+14;Scotland;2025;federation
+15;Poland;2025;federation
+16;Denmark;2025;federation
+17;Switzerland;2025;federation
+18;Israel;2025;federation
+19;Cyprus;2025;federation
+20;Sweden;2025;federation
+21;Croatia;2025;federation
+22;Serbia;2025;federation
+23;Ukraine;2025;federation
+24;Hungary;2025;federation
+25;Romania;2025;federation
+26;Russia;2025;federation
+27;Slovakia;2025;federation
+28;Slovenia;2025;federation
+29;Bulgaria;2025;federation
+30;Azerbaijan;2025;federation
+31;Ireland;2025;federation
+32;Moldova;2025;federation
+33;Iceland;2025;federation
+34;Bosnia-Herzegovina;2025;federation
+35;Armenia;2025;federation
+36;Latvia;2025;federation
+37;Kosovo;2025;federation
+38;Finland;2025;federation
+39;Kazakhstan;2025;federation
+40;Faroe Islands;2025;federation
+41;Malta;2025;federation
+42;Northern Ireland;2025;federation
+43;Lithuania;2025;federation
+44;Liechtenstein;2025;federation
+45;Estonia;2025;federation
+46;Albania;2025;federation
+47;Montenegro;2025;federation
+48;Luxembourg;2025;federation
+49;Wales;2025;federation
+50;Georgia;2025;federation
+51;North Macedonia;2025;federation
+52;Belarus;2025;federation
+53;Andorra;2025;federation
+54;Gibraltar;2025;federation
+55;San Marino;2025;federation
+1;England;2026;federation
+2;Italy;2026;federation
+3;Spain;2026;federation
+4;Germany;2026;federation
+5;France;2026;federation
+6;Portugal;2026;federation
+7;Netherlands;2026;federation
+8;Belgium;2026;federation
+9;Türkiye;2026;federation
+10;Czechia;2026;federation
+11;Greece;2026;federation
+12;Poland;2026;federation
+13;Denmark;2026;federation
+14;Norway;2026;federation
+15;Cyprus;2026;federation
+16;Switzerland;2026;federation
+17;Austria;2026;federation
+18;Scotland;2026;federation
+19;Sweden;2026;federation
+20;Croatia;2026;federation
+21;Israel;2026;federation
+22;Hungary;2026;federation
+23;Ukraine;2026;federation
+24;Serbia;2026;federation
+25;Romania;2026;federation
+26;Slovenia;2026;federation
+27;Azerbaijan;2026;federation
+28;Russia;2026;federation
+29;Slovakia;2026;federation
+30;Bulgaria;2026;federation
+31;Ireland;2026;federation
+32;Iceland;2026;federation
+33;Armenia;2026;federation
+34;Moldova;2026;federation
+35;Finland;2026;federation
+36;Kosovo;2026;federation
+37;Kazakhstan;2026;federation
+38;Bosnia-Herzegovina;2026;federation
+39;Latvia;2026;federation
+40;Faroe Islands;2026;federation
+41;Malta;2026;federation
+42;Liechtenstein;2026;federation
+43;Estonia;2026;federation
+44;Albania;2026;federation
+45;North Macedonia;2026;federation
+46;Lithuania;2026;federation
+47;Northern Ireland;2026;federation
+48;Gibraltar;2026;federation
+49;Andorra;2026;federation
+50;Belarus;2026;federation
+51;Luxembourg;2026;federation
+52;Montenegro;2026;federation
+53;Georgia;2026;federation
+54;Wales;2026;federation
+55;San Marino;2026;federation
