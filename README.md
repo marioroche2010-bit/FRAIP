@@ -60,6 +60,12 @@ The datasets used in this project were obtained from publicly available and lice
 - WorldFootballR
 - FootyStats
 
+<br>
+
+**FULL RAW DATABASE  ->**  [Historic Football Data for Machine Learning](https://www.kaggle.com/datasets/marioroche/historic-football-data-for-machine-learning)
+
+<br>
+
 ## Technologies Used
 
 - Python
