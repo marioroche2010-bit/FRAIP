@@ -13,7 +13,7 @@
 <br>
 
 ## Notes
-- All datasets were obtained from their respective official or publicly available sources.
+- All datasets were obtained from publicly available sources or their respective official sources.
 - Data cleaning, preprocessing, and feature engineering were performed by the FRAIP project.
 - Access dates correspond to the day on which the raw data was downloaded.
 - Licensing conditions should always be checked before redistributing any dataset.
