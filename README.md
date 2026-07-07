@@ -49,16 +49,7 @@ The project uses historical football data such as:
 - Match results and stats from various competitions
 - Historic team stats
 
-The datasets used in this project were obtained from publicly available and licensed sources, including:
-
-- Kaggle
-- FIFA World Ranking
-- UEFA Club and Association Coefficients
-- FBref
-- Understat
-- Transfermarkt (where permitted)
-- WorldFootballR
-- FootyStats
+The datasets used in this project were obtained from publicly available and licensed sources, available here: [Data sources](docs/data_sources.md)
 
 <br>
 
